@@ -1,5 +1,6 @@
 ! Demo of a Fortran function. Intent(in) arguments
 ! cannot be changed. Function arguments should be intent(in). 
+! Pure means the function has no side-effects.
 
 program func
 implicit none
