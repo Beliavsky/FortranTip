@@ -1,2 +1,2 @@
 # FortranTip
-Code associated with Twitter @FortranTip
+Code associated with Twitter [@FortranTip](https://twitter.com/fortrantip)
