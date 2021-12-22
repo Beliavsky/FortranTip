@@ -1,5 +1,5 @@
 ! If allocation errors must be handled, use allocatable rather than automatic arrays in procedures, 
-!  and check that stat of allocate.
+! and check the stat of allocate.
 subroutine foo(x)
 implicit none
 real, intent(in)  :: x(:)
