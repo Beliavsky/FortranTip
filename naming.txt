@@ -1,0 +1,9 @@
+Name modules and the source files containing them consistently, with
+one module per file. The convention I use is that a module name ends
+in foo_mod and is defined in a source file foo.f90. That way if I see 
+
+use m_mod, only: foo, bar
+
+in my code I know to look in m.f90 for the definitions of foo and bar.
+The Fortran Standard Library project on GitHub does not use the _mod
+suffix in naming, so m.f90 contains module m.
