@@ -24,5 +24,7 @@ Small Fortran code samples associated with Twitter [@FortranTip](https://twitter
 [Declare floating point variables with KINDs](https://twitter.com/fortrantip/status/1472771842242920451) 9:32 PM · Dec 19, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/kind.f90)<br>
 [Replace non-standard REAL\*8 declaration with REAL(KIND=REAL64)](https://twitter.com/fortrantip/status/1472772577600942083) 9:35 PM · Dec 19, 2021<br>
 [Use PARAMETERs in modules to define physical and mathematical constants](https://twitter.com/fortrantip/status/1472718436040073226) 6:00 PM · Dec 19, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/module_parameter.f90)<br>
+[Procedures can be RECURSIVE](https://twitter.com/fortrantip) 4:56 PM · Dec 19, 2021<br>
+[Specify function and subroutine argument INTENTs](https://twitter.com/fortrantip/status/1472698233298333699) 4:39 PM · Dec 19, 2021<br>
 
 
