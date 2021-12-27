@@ -8,5 +8,6 @@ Small Fortran code samples associated with Twitter [@FortranTip](https://twitter
 [Store data as an array of derived types or a derived type with array components?](https://twitter.com/fortrantip/status/1475133178763427848) 9:55 AM · Dec 26, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/derived_type_array.f90)<br>
 [Fortran is column-major](https://twitter.com/fortrantip/status/1475049356155883524) 4:22 AM · Dec 26, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/column_major.f90)<br>
 [CMPLX should be used with a KIND argument](https://twitter.com/fortrantip/status/1474537984066301959) 6:30 PM · Dec 24, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/cmplx.f90)<br>
+[RESHAPE with the optional ORDER and PAD arguments](https://twitter.com/fortrantip/status/1474394605890244614) 9:00 AM · Dec 24, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/reshape_array.f90)<br>
 
 
