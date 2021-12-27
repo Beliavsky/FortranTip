@@ -27,5 +27,6 @@ Small Fortran code samples associated with Twitter [@FortranTip](https://twitter
 [Procedures can be RECURSIVE](https://twitter.com/fortrantip) 4:56 PM · Dec 19, 2021<br>
 [Specify function and subroutine argument INTENTs](https://twitter.com/fortrantip/status/1472698233298333699) 4:39 PM · Dec 19, 2021<br>
 [Subroutines can have INTENT(IN OUT) arguments, but functions should not](https://twitter.com/fortrantip/status/1472696912541364224) 4:34 PM · Dec 19, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/intent_in_out.f90)<br>
+[Define and call a subroutine](https://twitter.com/fortrantip/status/1472692305522044932) 4:16 PM · Dec 19, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/subroutine.f90)<br>
 
 
