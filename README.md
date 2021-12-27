@@ -48,6 +48,7 @@ Small Fortran code samples associated with Twitter [@FortranTip](https://twitter
 [Fortran arrays can have any lower bound. The default is 1.](https://twitter.com/fortrantip/status/1471997763848183810) 6:16 PM · Dec 17, 2021<br>
 [Fortran array sections contain both endpoints](https://twitter.com/fortrantip/status/1471994100161388545) 6:01 PM · Dec 17, 2021<br>
 [Array intrinsic functions: SUM, MINVAL, MAXVAL, MINLOC, FINDLOC](https://twitter.com/fortrantip/status/1471989760046641153) 5:44 PM · Dec 17, 2021<br>
-
+[Integer division truncates.](https://twitter.com/fortrantip/status/1471936756857643008) 2:14 PM · Dec 17, 2021<br>
+[\** is the exponentiation operator](https://twitter.com/fortrantip/status/1471903802185986050) 12:03 PM · Dec 17, 2021<br>
 
 
