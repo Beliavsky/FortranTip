@@ -13,6 +13,7 @@ Small Fortran code samples associated with Twitter [@FortranTip](https://twitter
 [Derived type definition, initialization, and operator overloading](https://twitter.com/fortrantip/status/1474169072665440259) 6:04 PM · Dec 23, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/date.f90)<br>
 [List-directed vs. explicitly formatted output](https://twitter.com/fortrantip/status/1474105626611662857) 1:52 PM · Dec 23, 2021<br>
 [Fortran equivalents of NumPy](https://twitter.com/fortrantip/status/1473958733571104773) 4:08 AM · Dec 23, 2021<br>
+[Zero-size array constructor](https://twitter.com/fortrantip/status/1473848675566858242) 8:51 PM · Dec 22, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/zero_size.f90)<br>
 
 
 
