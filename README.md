@@ -10,6 +10,7 @@ Small Fortran code samples associated with Twitter [@FortranTip](https://twitter
 [CMPLX should be used with a KIND argument](https://twitter.com/fortrantip/status/1474537984066301959) 6:30 PM · Dec 24, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/cmplx.f90)<br>
 [RESHAPE with the optional ORDER and PAD arguments](https://twitter.com/fortrantip/status/1474394605890244614) 9:00 AM · Dec 24, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/reshape_array.f90)<br>
 [Use GAMMA to compute factorials](https://twitter.com/fortrantip/status/1474357943667671060) 6:35 AM · Dec 24, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/factorial.f90)<br>
-[Derived type definition, initialization, and operator overloading](https://twitter.com/fortrantip/status/1474169072665440259) 6:04 PM · Dec 23, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/date.f90)
+[Derived type definition, initialization, and operator overloading](https://twitter.com/fortrantip/status/1474169072665440259) 6:04 PM · Dec 23, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/date.f90)<br>
+[List-directed (*) vs. explicitly formatted output](https://twitter.com/fortrantip/status/1474105626611662857) 1:52 PM · Dec 23, 2021<br>
 
 
