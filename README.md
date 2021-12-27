@@ -22,5 +22,6 @@ Small Fortran code samples associated with Twitter [@FortranTip](https://twitter
 [Reading user input](https://twitter.com/fortrantip/status/1472941850218700805) 8:47 AM · Dec 20, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/read_sum.f90)<br>
 [SELECT CASE for conditional execution](https://twitter.com/fortrantip/status/1472930444572336128) 8:02 AM · Dec 20, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/select_case.f90)<br>
 [Declare floating point variables with KINDs](https://twitter.com/fortrantip/status/1472771842242920451) 9:32 PM · Dec 19, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/kind.f90)<br>
+[Replace non-standard REAL\*8 declaration with REAL(KIND=REAL64)](https://twitter.com/fortrantip/status/1472772577600942083) 9:35 PM · Dec 19, 2021<br> 
 
 
