@@ -14,6 +14,7 @@ Small Fortran code samples associated with Twitter [@FortranTip](https://twitter
 [List-directed vs. explicitly formatted output](https://twitter.com/fortrantip/status/1474105626611662857) 1:52 PM · Dec 23, 2021<br>
 [Fortran equivalents of NumPy](https://twitter.com/fortrantip/status/1473958733571104773) 4:08 AM · Dec 23, 2021<br>
 [Zero-size array constructor](https://twitter.com/fortrantip/status/1473848675566858242) 8:51 PM · Dec 22, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/zero_size.f90)<br>
+[G0.d and colon edit descriptors with infinite repeat count, to write delimited (CSV, etc.) output](https://twitter.com/fortrantip/status/1473680777279852553) 9:44 AM · Dec 22, 2021<br>
 
 
 
