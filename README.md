@@ -19,5 +19,6 @@ Small Fortran code samples associated with Twitter [@FortranTip](https://twitter
 [Name modules and the source files containing them consistently, with one module per file.](https://twitter.com/fortrantip/status/1473340740055015431) 11:13 AM · Dec 21, 2021<br>
 [Use unformatted stream of Fortran 2003 for large-scale I/O.](https://twitter.com/fortrantip/status/1473261954244435973) 5:59 AM · Dec 21, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/stream_io.f90)<br>
 [Using READ and WRITE for file i/o](https://twitter.com/fortrantip/status/1472999893631447043) 12:38 PM · Dec 20, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/read_write_file.f90)<br>
+[Reading user input](https://twitter.com/fortrantip/status/1472941850218700805) 8:47 AM · Dec 20, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/read_sum.f90)<br>
 
 
