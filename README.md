@@ -26,5 +26,6 @@ Small Fortran code samples associated with Twitter [@FortranTip](https://twitter
 [Use PARAMETERs in modules to define physical and mathematical constants](https://twitter.com/fortrantip/status/1472718436040073226) 6:00 PM · Dec 19, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/module_parameter.f90)<br>
 [Procedures can be RECURSIVE](https://twitter.com/fortrantip) 4:56 PM · Dec 19, 2021<br>
 [Specify function and subroutine argument INTENTs](https://twitter.com/fortrantip/status/1472698233298333699) 4:39 PM · Dec 19, 2021<br>
+[Subroutines can have INTENT(IN OUT) arguments, but functions should not](https://twitter.com/fortrantip/status/1472696912541364224) 4:34 PM · Dec 19, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/intent_in_out.f90)<br>
 
 
