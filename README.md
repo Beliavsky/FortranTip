@@ -21,5 +21,6 @@ Small Fortran code samples associated with Twitter [@FortranTip](https://twitter
 [Using READ and WRITE for file i/o](https://twitter.com/fortrantip/status/1472999893631447043) 12:38 PM · Dec 20, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/read_write_file.f90)<br>
 [Reading user input](https://twitter.com/fortrantip/status/1472941850218700805) 8:47 AM · Dec 20, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/read_sum.f90)<br>
 [SELECT CASE for conditional execution](https://twitter.com/fortrantip/status/1472930444572336128) 8:02 AM · Dec 20, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/select_case.f90)<br>
+[Declare floating point variables with KINDs](https://twitter.com/fortrantip/status/1472771842242920451) 9:32 PM · Dec 19, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/kind.f90)<br>
 
 
