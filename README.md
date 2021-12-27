@@ -30,5 +30,6 @@ Small Fortran code samples associated with Twitter [@FortranTip](https://twitter
 [Define and call a subroutine](https://twitter.com/fortrantip/status/1472692305522044932) 4:16 PM · Dec 19, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/subroutine.f90)<br>
 [Demonstrate optional arguments and RANDOM_NUMBER](https://twitter.com/fortrantip/status/1472684194765672450) 3:44 PM · Dec 19, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/optional.f90)<br>
 [Function overloading using an interface with module procedures](https://twitter.com/fortrantip/status/1472629090758836229) 12:05 PM · Dec 19, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/interface.f90)<br>
+[USE, ONLY to avoid polluting the namespace](https://twitter.com/fortrantip/status/1472613921886552065) 11:04 AM · Dec 19, 2021<br>
 
 
