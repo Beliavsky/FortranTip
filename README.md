@@ -3,6 +3,7 @@ Small Fortran code samples associated with Twitter [@FortranTip](https://twitter
 
 ### Index of Tweets, Most Recent First
 
+[ANY and ALL may not be the most efficient methods to compare arrays.](https://twitter.com/fortrantip/status/1475829444543717378)<br>
 [Consider using a tolerance to compare floats](https://twitter.com/fortrantip/status/1475826650835214338) 7:51 AM · Dec 28, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/compare_floats.f90)<br>
 [Use ALL(A==B) to test for array equality](https://twitter.com/fortrantip/status/1475822105358913540) 7:33 AM · Dec 28, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/all_any.f90)<br>
 [Intel Fortran Compiler (ifx)](https://twitter.com/fortrantip/status/1475494838074318852) 9:52 AM · Dec 27, 2021<br>
