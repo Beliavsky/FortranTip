@@ -3,6 +3,7 @@ Small Fortran code samples associated with Twitter [@FortranTip](https://twitter
 
 ### Index of Tweets, Most Recent First
 
+[Consider using a tolerance to compare floats](https://twitter.com/fortrantip/status/1475826650835214338) 7:51 AM · Dec 28, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/compare_floats.f90)<br>
 [Use ALL(A==B) to test for array equality](https://twitter.com/fortrantip/status/1475822105358913540) 7:33 AM · Dec 28, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/all_any.f90)<br>
 [Intel Fortran Compiler (ifx)](https://twitter.com/fortrantip/status/1475494838074318852) 9:52 AM · Dec 27, 2021<br>
 [Doubled delimiter in a string is regarded as a single character of the constant](https://twitter.com/fortrantip/status/1475453317526528003) 7:07 AM · Dec 27, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/doubled_delim.f90)<br>
