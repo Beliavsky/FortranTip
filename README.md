@@ -3,6 +3,7 @@ Small Fortran code samples associated with Twitter [@FortranTip](https://twitter
 
 ### Index of Tweets, Most Recent First
 
+[LEN of a character variable may be deferred in F2003 on](https://twitter.com/fortrantip/status/1476201645885337611) 8:41 AM · Dec 29, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/deferred_character.f90)<br>
 [To learn about Fortran beyond F95, read the New Features articles of John Reid](https://twitter.com/fortrantip/status/1476150602866511873) 5:18 AM · Dec 29, 2021<br>
 [Use .true. and .false. for Booleans, not 1 and 0](https://twitter.com/fortrantip/status/1475905587774959616) 1:04 PM · Dec 28, 2021<br>
 [Standards committee has approved conditional expressions](https://twitter.com/fortrantip/status/1475840940791279616) 8:47 AM · Dec 28, 2021<br>
