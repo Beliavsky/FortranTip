@@ -9,16 +9,16 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [MODULO vs. MOD function](https://twitter.com/fortrantip/status/1476541936681066501) 7:13 AM · Dec 30, 2021<br>
 [Compiler Support for the Fortran 2008 and 2018 Standards](https://twitter.com/fortrantip/status/1476281645011505162) 1:59 PM · Dec 29, 2021<br>
 [Many compilers evaluate ALL(x==y) efficiently with short-circuiting](https://twitter.com/fortrantip/status/1476255945923641347) 12:16 PM · Dec 29, 2021<br>
-[LEN of a character variable may be deferred in Fortran 2003 on](https://twitter.com/fortrantip/status/1476201645885337611) 8:41 AM · Dec 29, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/deferred_character.f90)<br>
+[LEN of a character variable may be deferred in Fortran 2003 on](https://twitter.com/fortrantip/status/1476201645885337611) 8:41 AM · Dec 29, 2021 [deferred_character.f90](https://github.com/Beliavsky/FortranTip/blob/main/deferred_character.f90)<br>
 [To learn about Fortran beyond F95, read the New Features articles of John Reid](https://twitter.com/fortrantip/status/1476150602866511873) 5:18 AM · Dec 29, 2021<br>
 [Use .true. and .false. for Booleans, not 1 and 0](https://twitter.com/fortrantip/status/1475905587774959616) 1:04 PM · Dec 28, 2021<br>
 [Standards committee has approved conditional expressions](https://twitter.com/fortrantip/status/1475840940791279616) 8:47 AM · Dec 28, 2021<br>
 [ANY and ALL may not be the most efficient methods to compare arrays.](https://twitter.com/fortrantip/status/1475829444543717378) 8:02 AM · Dec 28, 2021<br>
-[Consider using a tolerance to compare floats](https://twitter.com/fortrantip/status/1475826650835214338) 7:51 AM · Dec 28, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/compare_floats.f90)<br>
-[Use ALL(A==B) to test for array equality](https://twitter.com/fortrantip/status/1475822105358913540) 7:33 AM · Dec 28, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/all_any.f90)<br>
+[Consider using a tolerance to compare floats](https://twitter.com/fortrantip/status/1475826650835214338) 7:51 AM · Dec 28, 2021 [compare_floats.f90](https://github.com/Beliavsky/FortranTip/blob/main/compare_floats.f90)<br>
+[Use ALL(A==B) to test for array equality](https://twitter.com/fortrantip/status/1475822105358913540) 7:33 AM · Dec 28, 2021 [all_any.f90](https://github.com/Beliavsky/FortranTip/blob/main/all_any.f90)<br>
 [Intel Fortran Compiler (ifx)](https://twitter.com/fortrantip/status/1475494838074318852) 9:52 AM · Dec 27, 2021<br>
-[Doubled delimiter in a string is regarded as a single character of the constant](https://twitter.com/fortrantip/status/1475453317526528003) 7:07 AM · Dec 27, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/doubled_delim.f90)<br>
-[Store data as an array of derived types or a derived type with array components?](https://twitter.com/fortrantip/status/1475133178763427848) 9:55 AM · Dec 26, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/derived_type_array.f90)<br>
+[Doubled delimiter in a string is regarded as a single character of the constant](https://twitter.com/fortrantip/status/1475453317526528003) 7:07 AM · Dec 27, 2021 [doubled_delim.f90](https://github.com/Beliavsky/FortranTip/blob/main/doubled_delim.f90)<br>
+[Store data as an array of derived types or a derived type with array components?](https://twitter.com/fortrantip/status/1475133178763427848) 9:55 AM · Dec 26, 2021 [derived_type_array.f90](https://github.com/Beliavsky/FortranTip/blob/main/derived_type_array.f90)<br>
 [Fortran is column-major](https://twitter.com/fortrantip/status/1475049356155883524) 4:22 AM · Dec 26, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/column_major.f90)<br>
 [CMPLX should be used with a KIND argument](https://twitter.com/fortrantip/status/1474537984066301959) 6:30 PM · Dec 24, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/cmplx.f90)<br>
 [RESHAPE with the optional ORDER and PAD arguments](https://twitter.com/fortrantip/status/1474394605890244614) 9:00 AM · Dec 24, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/reshape_array.f90)<br>
