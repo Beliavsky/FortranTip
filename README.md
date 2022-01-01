@@ -28,7 +28,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Fortran equivalents of NumPy](https://twitter.com/fortrantip/status/1473958733571104773) 4:08 AM · Dec 23, 2021<br>
 [Zero-size array constructor such as [real ::]](https://twitter.com/fortrantip/status/1473848675566858242) 8:51 PM · Dec 22, 2021 [zero_size.f90](https://github.com/Beliavsky/FortranTip/blob/main/zero_size.f90)<br>
 [Use G0.d and colon edit descriptors with infinite repeat count to write delimited (CSV, etc.) output](https://twitter.com/fortrantip/status/1473680777279852553) 9:44 AM · Dec 22, 2021<br>
-[If allocation errors must be handled, use ALLOCATABLE rather than automatic arrays in procedures](https://twitter.com/fortrantip/status/1473636468405030913) 6:48 AM · Dec 22, 2021 [code](https://github.com/Beliavsky/FortranTip/blob/main/automatic.f90)<br>
+[If allocation errors must be handled, use ALLOCATABLE rather than automatic arrays in procedures](https://twitter.com/fortrantip/status/1473636468405030913) 6:48 AM · Dec 22, 2021 [automatic.f90](https://github.com/Beliavsky/FortranTip/blob/main/automatic.f90)<br>
 [Name modules and the source files containing them consistently, with one module per file.](https://twitter.com/fortrantip/status/1473340740055015431) 11:13 AM · Dec 21, 2021<br>
 [Use unformatted stream of Fortran 2003 for large-scale I/O.](https://twitter.com/fortrantip/status/1473261954244435973) 5:59 AM · Dec 21, 2021 [stream_io.f90](https://github.com/Beliavsky/FortranTip/blob/main/stream_io.f90)<br>
 [Using READ and WRITE for file i/o](https://twitter.com/fortrantip/status/1472999893631447043) 12:38 PM · Dec 20, 2021 [read_write_file.f90](https://github.com/Beliavsky/FortranTip/blob/main/read_write_file.f90)<br>
