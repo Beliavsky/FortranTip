@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip)
 
 ### Index of Tweets, Most Recent First
+[Returning multiple values from a subroutine or function](https://twitter.com/fortrantip/status/1476724929299197962) 8:20 PM · Dec 30, 2021<br>
 [MODULO vs. MOD function](https://twitter.com/fortrantip/status/1476541936681066501) 7:13 AM · Dec 30, 2021<br>
 [Compiler Support for the Fortran 2008 and 2018 Standards](https://twitter.com/fortrantip/status/1476281645011505162) 1:59 PM · Dec 29, 2021<br>
 [Many compilers evaluate ALL(x==y) efficiently with short-circuiting](https://twitter.com/fortrantip/status/1476255945923641347) 12:16 PM · Dec 29, 2021<br>
