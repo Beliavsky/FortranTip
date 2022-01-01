@@ -1,5 +1,5 @@
 # FortranTip
-Small Fortran code samples associated with Twitter [@FortranTip](https://twitter.com/fortrantip)
+Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip)
 
 ### Index of Tweets, Most Recent First
 [MODULO vs. MOD function](https://twitter.com/fortrantip/status/1476541936681066501) 7:13 AM · Dec 30, 2021<br>
