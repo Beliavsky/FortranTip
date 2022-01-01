@@ -2,7 +2,7 @@ module m
 implicit none
 contains
 function lower_case(string) result(new)
-! adapted by code from Arjen Markus at
+! adapted from code by Arjen Markus at
 ! https://groups.google.com/g/comp.lang.fortran/c/CKx1L2Ahkxg
 character(len=*), intent(in) :: string
 character(len=len(string))   :: new
