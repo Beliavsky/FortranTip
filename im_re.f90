@@ -1,4 +1,5 @@
 program im_re
+implicit none
 integer, parameter :: wp = kind(1.0)
 complex(kind=wp)   :: z,v(2)
 z = (3.0_wp,4.0_wp)  ! set real and imaginary parts
