@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip)
 
 ### Index of Tweets, Most Recent First, With Associated Code
+[Fortran 2008 introduced z%re and z%im as alternatives to real(z) and aimag(z)](https://twitter.com/fortrantip/status/1478160269671124993) 7:24 PM · Jan 3, 2022 [im_re.f90](./im_re.f90)<br>
 [KindFinder code finds all KIND Values implemented by a compiler](https://twitter.com/fortrantip/status/1478030318485577728) 10:47 AM · Jan 3, 2022 [kindfind.f90](./kindfind.f90)<br>
 [Real and integer KIND constants from iso_fortran_env; HUGE() and TINY()](https://twitter.com/fortrantip/status/1477985901145993221) 7:51 AM · Jan 3, 2022 [iso_kinds.f90](./iso_kinds.f90)<br>
 [Advance="no" specifier of WRITE](https://twitter.com/fortrantip/status/1477788560359141382) 6:47 PM · Jan 2, 2022 [advance_no.f90](./advance_no.f90)<br>
