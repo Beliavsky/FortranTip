@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip)
 
 ### Index of Tweets, Most Recent First, With Associated Code
+[KIND numbers of types are not portable across compilers and should not be used directly.](https://twitter.com/fortrantip/status/1478526602136981511) 7:39 PM · Jan 4, 2022<br>
 [Avoid implicit save](https://twitter.com/fortrantip/status/1478363292028784645) 8:50 AM · Jan 4, 2022 [implicit_save.f90](./implicit_save.f90): [run](https://onlinegdb.com/BCZzmjYxs)<br>
 [Use parameters to dimension fixed-size arrays to make a code easier to change](https://twitter.com/fortrantip/status/1478331686412861440) 6:45 AM · Jan 4, 2022<br>
 [Fortran 2008 introduced z%re and z%im as alternatives to real(z) and aimag(z)](https://twitter.com/fortrantip/status/1478160269671124993) 7:24 PM · Jan 3, 2022 [im_re.f90](./im_re.f90)<br>
