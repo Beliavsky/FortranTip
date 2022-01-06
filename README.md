@@ -2,7 +2,8 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, With Associated Code
-[Use integer powers when possible](https://twitter.com/fortrantip/status/1478765410405298176) 11:28 AM · Jan 5, 2022 [pow_real.f90](./pow_real.f90)<br>
+[Parenthesize a variable to copy it "on the fly".](https://twitter.com/fortrantip/status/1479071485859962880) 7:44 AM · Jan 6, 2022 [overlapping_arg.f90](./overlapping_arg.f90)<br>
+[Use integer powers when possible.](https://twitter.com/fortrantip/status/1478765410405298176) 11:28 AM · Jan 5, 2022 [pow_real.f90](./pow_real.f90)<br>
 [Use d0 or \_kind to make a constant double precision.](https://twitter.com/fortrantip/status/1478713534850736129) 8:02 AM · Jan 5, 2022 [precision.f90](./precision.f90)<br>
 [KIND numbers of types are not portable across compilers and should not be used directly.](https://twitter.com/fortrantip/status/1478526602136981511) 7:39 PM · Jan 4, 2022<br>
 [Avoid implicit save](https://twitter.com/fortrantip/status/1478363292028784645) 8:50 AM · Jan 4, 2022 [implicit_save.f90](./implicit_save.f90): [run](https://onlinegdb.com/BCZzmjYxs)<br>
