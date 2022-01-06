@@ -1,5 +1,5 @@
 # FortranTip
-Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip)
+Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, With Associated Code
 [Use integer powers when possible](https://twitter.com/fortrantip/status/1478765410405298176) 11:28 AM · Jan 5, 2022 [pow_real.f90](./pow_real.f90)<br>
