@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, With Associated Code
+[Syntax for character array without manual padding](https://twitter.com/fortrantip/status/1479487784205402116) 11:19 AM · Jan 7, 2022 [character_array.f90](./character_array.f90)<br>
 [Intrinsic character functions](https://twitter.com/fortrantip/status/1479391930744283144) 4:58 AM · Jan 7, 2022 [string_func.f90](./string_func.f90)<br>
 [Substrings of character variable arrays](https://twitter.com/fortrantip/status/1479128610623606787) 11:31 AM · Jan 6, 2022 [substring.f90](./substring.f90)<br>
 [Parenthesize a variable to copy it "on the fly".](https://twitter.com/fortrantip/status/1479071485859962880) 7:44 AM · Jan 6, 2022 [overlapping_arg.f90](./overlapping_arg.f90)<br>
