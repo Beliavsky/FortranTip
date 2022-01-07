@@ -1,0 +1,37 @@
+Ways of defining a function:
+
+1. Function and result name are the same.
+
+2. RESULT has a different name within the function, which can be used
+to return an array.
+
+RETURN, when needed, is used to exit the function, not set its value.
+
+Long version
+============
+
+There are two forms of syntax for defining a function in Fortran.
+
+1. The function and result name can be the same, for example
+
+integer function twice(i)
+integer, intent(in) :: i
+twice = 2*i
+end function twice
+
+2. The RESULT can have a different name than the function. This
+syntax, which can be used to return an array, was introduced in
+Fortran 90.
+
+pure function twice(i) result(i2)
+integer, intent(in) :: i
+integer             :: i2 ! declare the RESULT
+i2 = 2*i
+end function twice
+
+Since the second syntax can be used for any function, I suggest using
+it for all functions, for uniformity and since one syntax is easier to
+remember.
+
+The RETURN statement is used to exit the function, not set its value, 
+as in other languages. Often it is not needed.
