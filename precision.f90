@@ -1,4 +1,4 @@
-program main ! how to write a double precision constant
+program main ! How to write a double precision constant
 use iso_fortran_env, only: real64, real128
 implicit none
 integer, parameter :: dp = real64, qp = real128
