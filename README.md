@@ -80,7 +80,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [SUM and other array functions have an optional DIM(ension) argument.](https://twitter.com/fortrantip/status/1472018791525720069) 7:40 PM · Dec 17, 2021 [2d_array.f90](./2d_array.f90)<br>
 [Fortran arrays can have any lower bound. The default is 1.](https://twitter.com/fortrantip/status/1471997763848183810) 6:16 PM · Dec 17, 2021<br>
 [Fortran array sections contain both endpoints](https://twitter.com/fortrantip/status/1471994100161388545) 6:01 PM · Dec 17, 2021<br>
-[Array intrinsic functions: SUM, MINVAL, MAXVAL, MINLOC, FINDLOC](https://twitter.com/fortrantip/status/1471989760046641153) 5:44 PM · Dec 17, 2021<br>
+[Array intrinsic functions: SUM, MINVAL, MAXVAL, MINLOC, FINDLOC](https://twitter.com/fortrantip/status/1471989760046641153) 5:44 PM · Dec 17, 2021 [array_intrinsics.f90](./array_intrinsics.f90)<br>
 [Integer division truncates.](https://twitter.com/fortrantip/status/1471936756857643008) 2:14 PM · Dec 17, 2021<br>
 [\** is the exponentiation operator.](https://twitter.com/fortrantip/status/1471903802185986050) 12:03 PM · Dec 17, 2021<br>
 [Fortran compilers and tutorials](https://twitter.com/fortrantip/status/1471897319671046147) 11:37 AM · Dec 17, 2021<br>
