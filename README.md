@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, With Associated Code
+[Use the same name for analogous procedures defined in different modules using an INTERFACE](https://twitter.com/fortrantip/status/1481247763048407042) 7:52 AM · Jan 12, 2022 [shared_interface.f90](./shared_interface.f90)<br>
 [Procedures can be called with a mix of named and positional arguments.](https://twitter.com/fortrantip/status/1480893840068390913) 8:26 AM · Jan 11, 2022 [arguments.f90](./arguments.f90)<br>
 [UnALLOCATED variable passed to a procedure is not PRESENT there.](https://twitter.com/fortrantip/status/1480585104997163018) 11:59 AM · Jan 10, 2022<br>
 [DIMENSION can be used to declare several arrays of the same SHAPE](https://twitter.com/fortrantip/status/1480162604559523840) 8:00 AM · Jan 9, 2022 [dimension.f90](./dimension.f90)<br>
