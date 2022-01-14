@@ -71,7 +71,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [PACK selects elements](https://twitter.com/fortrantip/status/1472600871192125451) 10:13 AM · Dec 19, 2021 [count_pack.f90](./count_pack.f90)<br>
 [Loop variable equals the upper bound plus the stride after normal completion of a loop](https://twitter.com/fortrantip/status/1472598697489965061) 10:04 AM · Dec 19, 2021 [do_loop_index.f90](./do_loop_index.f90)<br>
 [Associate creates an alias for expressions or variables.](https://twitter.com/fortrantip/status/1472565511628197891) 7:52 AM · Dec 19, 2021 [assoc.f90](./assoc.f90)<br>
-[In addition to if-elseif, Fortran has a one-line if](https://twitter.com/fortrantip/status/1472365082067755017) 6:36 PM · Dec 18, 2021<br>
+[In addition to if-elseif, Fortran has a one-line if](https://twitter.com/fortrantip/status/1472365082067755017) 6:36 PM · Dec 18, 2021 [one_line_if.f90](./one_line_if.f90)<br>
 [Character variables are padded with spaces at the end if necessary.](https://twitter.com/fortrantip/status/1472209602074849285) 8:18 AM · Dec 18, 2021<br>
 [An array of character variables has elements of the same LEN(gth).](https://twitter.com/fortrantip/status/1472207576133783564) 8:10 AM · Dec 18, 2021 [char.f90](./char.f90)<br>
 [MERGE(x,y,condition) returns x if condition is true, otherwise y](https://twitter.com/fortrantip/status/1472205323763073026) 8:01 AM · Dec 18, 2021 [merge.f90](./merge.f90)<br>
