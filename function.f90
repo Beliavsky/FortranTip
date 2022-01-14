@@ -12,7 +12,6 @@ integer             :: j
 j = 2*i ! result has different name from function
 end function double
 !
-! to return an array, you must define a separate result variable
 pure function double_vec(i) result(j)
 integer, intent(in) :: i(:)
 integer             :: j(size(i))
