@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, With Associated Code
+[Use iostat and iomsg to handle READ errors](https://twitter.com/fortrantip/status/1482687630877892608) 7:14 AM · Jan 16, 2022 [iomsg.f90](./iomsg.f90) ; [data_file](./iomsg_data_file.txt)<br>
 [An unqualified USE foo statement imports public entities defined in foo and what foo imported.](https://twitter.com/fortrantip/status/1482328990798987266) 7:29 AM · Jan 15, 2022 [imports.f90](./imports.f90)<br>
 [Module entities are PUBLIC by default.](https://twitter.com/fortrantip/status/1481970740475932676) 7:45 AM · Jan 14, 2022 [private.f90](./private.f90)<br>
 [How to rename an imported module entity](https://twitter.com/fortrantip/status/1481597325499842563) 7:01 AM · Jan 13, 2022 [rename.f90](./rename.f90)<br>
