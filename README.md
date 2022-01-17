@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, With Associated Code
+[Fortran 2008 introduced IMPURE ELEMENTAL procedures](https://twitter.com/fortrantip/status/1483063464562204672) 8:07 AM · Jan 17, 2022 [impure_elemental.f90](./impure_elemental.f90)<br>
 [List of Fortran compilers, build tools, text editors, etc.](https://twitter.com/fortrantip/status/1482709817466707969) 8:42 AM · Jan 16, 2022 [list](https://github.com/Beliavsky/Fortran-Tools)<br>
 [Use iostat and iomsg to handle READ errors](https://twitter.com/fortrantip/status/1482687630877892608) 7:14 AM · Jan 16, 2022 [iomsg.f90](./iomsg.f90) ; [data_file](./iomsg_data_file.txt)<br>
 [An unqualified USE foo statement imports public entities defined in foo and what foo imported.](https://twitter.com/fortrantip/status/1482328990798987266) 7:29 AM · Jan 15, 2022 [imports.f90](./imports.f90)<br>
