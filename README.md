@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, With Associated Code
+[PROTECTED module variables cannot be changed outside the module.](https://twitter.com/fortrantip/status/1484136749924245509) 7:12 AM · Jan 20, 2022 [protected.f90](./protected.f90)<br>
 [Array constructor with [] was introduced in Fortran 2003. Still valid is (//)](https://twitter.com/fortrantip/status/1483773578839474180) 7:09 AM · Jan 19, 2022<br>
 [Impure elemental procedure can be used to generate array of non-uniform variates](https://twitter.com/fortrantip/status/1483430581232967684) 8:26 AM · Jan 18, 2022 [random_normal.f90](./random_normal.f90)<br>
 [Fortran 2008 introduced IMPURE ELEMENTAL procedures](https://twitter.com/fortrantip/status/1483063464562204672) 8:07 AM · Jan 17, 2022 [impure_elemental.f90](./impure_elemental.f90)<br>
