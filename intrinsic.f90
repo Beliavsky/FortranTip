@@ -34,7 +34,6 @@ print*,"output_unit =",output_unit
 print*,"sin(0.0) =",sin(0.0)
 end subroutine normal
 end module m
-
 !
 program test_intrinsic
 use m, only: replacements, normal
@@ -42,3 +41,10 @@ implicit none
 call replacements()
 call normal()
 end program test_intrinsic
+!  in replacements()
+!  output_unit =          -1
+!  sin(0.0) =   10.0000000    
+! 
+!  in normal()
+!  output_unit =           6
+!  sin(0.0) =   0.00000000
