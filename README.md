@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, With Associated Code
+[VALUE attribute for procedure arguments introduced in Fortran 2003](https://twitter.com/fortrantip/status/1484874794352918528) 8:05 AM · Jan 22, 2022 [value.f90](./value.f90)<br>
 [Use INTRINSIC to specify that compiler-provided procedures and modules are referenced](https://twitter.com/fortrantip/status/1484517091738886147) 8:23 AM · Jan 21, 2022 [intrinsic.f90](./intrinsic.f90)<br>
 [PROTECTED module variables cannot be changed outside the module.](https://twitter.com/fortrantip/status/1484136749924245509) 7:12 AM · Jan 20, 2022 [protected.f90](./protected.f90)<br>
 [Array constructor with [] was introduced in Fortran 2003. Still valid is (//)](https://twitter.com/fortrantip/status/1483773578839474180) 7:09 AM · Jan 19, 2022<br>
