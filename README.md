@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, With Associated Code
+[ALLOCATABLE INTENT(OUT) argument is deallocated.](https://twitter.com/fortrantip/status/1485957543990018053) 7:47 AM · Jan 25, 2022 [intent_out_allocatable.f90](./intent_out_allocatable.f90)<br>
 [An INTENT(OUT) argument is undefined at the beginning of a procedure](https://twitter.com/fortrantip/status/1485594671300632576) 7:45 AM · Jan 24, 2022 [intent_out_undefined.f90](./intent_out_undefined.f90)<br>
 [Turn compiler warnings into errors to force code defects to be fixed.](https://twitter.com/fortrantip/status/1485235396179079173) 7:58 AM · Jan 23, 2022 [warnings.f90](./warnings.f90)<br>
 [VALUE attribute for procedure arguments introduced in Fortran 2003](https://twitter.com/fortrantip/status/1484874794352918528) 8:05 AM · Jan 22, 2022 [value.f90](./value.f90)<br>
