@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, With Associated Code
+[Call ieee_set_halting_mode() to set floating point conditions that halt program.](https://twitter.com/fortrantip/status/1487084606780325889) https://twitter.com/fortrantip/status/1487084606780325889 [ieee_exceptions.f90](./ieee_exceptions.f90)<br>
 [IEEE_ARITHMETIC module has functions to test numerical conditions.](https://twitter.com/fortrantip/status/1486706121335263246) 9:22 AM · Jan 27, 2022 [ieee_arithmetic.f90](./ieee_arithmetic.f90)<br>
 [Dummy argument that is changed must be definable in the caller.](https://twitter.com/fortrantip/status/1486313053092208645) 7:20 AM · Jan 26, 2022 [definable_arg.f90](./definable_arg.f90)<br>
 [ALLOCATABLE INTENT(OUT) argument is deallocated.](https://twitter.com/fortrantip/status/1485957543990018053) 7:47 AM · Jan 25, 2022 [intent_out_allocatable.f90](./intent_out_allocatable.f90)<br>
