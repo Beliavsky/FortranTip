@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, With Associated Code
+[Polyhedron suggested compiler optimization options and Fortran 95 benchmarks](https://twitter.com/fortrantip/status/1487791193710866437) 9:13 AM · Jan 30, 2022<br>
 [Google foo filetype:f90 or foo filetype:f to find Fortran code with foo.](https://twitter.com/fortrantip/status/1487557071818084357) 5:43 PM · Jan 29, 2022<br>
 [A procedure can have an argument that is another PROCEDURE with an INTERFACE.](https://twitter.com/fortrantip/status/1487410814919356419) 8:02 AM · Jan 29, 2022 [trapezoid.f90](./trapezoid.f90)<br>
 [Call ieee_set_halting_mode() to set floating point conditions that halt program.](https://twitter.com/fortrantip/status/1487084606780325889) 10:26 AM · Jan 28, 2022 [ieee_exceptions.f90](./ieee_exceptions.f90)<br>
