@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, With Associated Code
+[Mistakes in Fortran 90 Programs That Might Surprise You by Szymanski](https://twitter.com/fortrantip/status/1488844789575569408) 7:00 AM · Feb 2, 2022<br>
 [Setting the values of an array section](https://twitter.com/fortrantip/status/1488492649166295043) 7:41 AM · Feb 1, 2022 [truloc.f90](./truloc.f90)<br>
 [Vector subscript can be used for non-contiguous array sections.](https://twitter.com/fortrantip/status/1488132722761609216) 7:51 AM · Jan 31, 2022 [vector_subscript.f90](./vector_subscript.f90)<br>
 [Polyhedron suggested compiler optimization options and Fortran 95 benchmarks](https://twitter.com/fortrantip/status/1487791193710866437) 9:13 AM · Jan 30, 2022<br>
