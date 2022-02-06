@@ -1,4 +1,4 @@
-program get_env
+program get_env ! demonstrate get_environment_variable
 implicit none
 print*,"unix?",unix()
 call print_env_var([character(20) :: "os","username","computername", &
