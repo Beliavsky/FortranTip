@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, With Associated Code
+[get_command() and get_command_argument() get command line arguments.](https://twitter.com/fortrantip/status/1490666160504905730) 7:38 AM · Feb 7, 2022 [get_command.f90](./get_command.f90)<br>
 [Demonstrate subroutine get_environment_variable(name,value) of Fortran 2003.](https://twitter.com/fortrantip/status/1490329749578731530) 9:21 AM · Feb 6, 2022 [get_env.f90](./get_env.f90)<br>
 [Document results with compiler_version(), compiler_options(), and other intrinsics.](https://twitter.com/fortrantip/status/1489952805649588226) 8:23 AM · Feb 5, 2022 [xpi.f90](./xpi.f90)<br>
 [Execute_command_line() can call gnuplot to display a plot during a run.](https://twitter.com/fortrantip/status/1489580579653918729) 7:44 AM · Feb 4, 2022<br>
