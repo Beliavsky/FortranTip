@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, With Associated Code
+[Convert from strings to numbers and the reverse using internal READ and WRITE.](https://twitter.com/fortrantip/status/1491754652030885888) 7:43 AM · Feb 10, 2022 [internal_read_write.f90](./internal_read_write.f90)<br>
 [spread(source, dim, ncopies) copies a SOURCE array NCOPIES times along dimension DIM.](https://twitter.com/fortrantip/status/1491380119616700417) 6:55 AM · Feb 9, 2022 [spread.f90](./spread.f90)<br>
 [Concatenate arrays and scalars in an array constructor []](https://twitter.com/fortrantip/status/1491021968799600641) 7:11 AM · Feb 8, 2022 [concatenate.f90](./concatenate.f90)<br>
 [get_command() and get_command_argument() get command line arguments.](https://twitter.com/fortrantip/status/1490666160504905730) 7:38 AM · Feb 7, 2022 [get_command.f90](./get_command.f90)<br>
