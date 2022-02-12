@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code
+[Character variables can be compared like numerical variables.](https://twitter.com/fortrantip/status/1492489511821004805) 8:23 AM · Feb 12, 2022 [compare_character.f90](./compare_character.f90)<br>
 [Internal write to character variable too small to hold output causes run-time error.](https://twitter.com/fortrantip/status/1492114908351283206) 7:34 AM · Feb 11, 2022 [write_char.f90](./write_char.f90)<br>
 [Convert from strings to numbers and the reverse using internal READ and WRITE.](https://twitter.com/fortrantip/status/1491754652030885888) 7:43 AM · Feb 10, 2022 [internal_read_write.f90](./internal_read_write.f90)<br>
 [spread(source, dim, ncopies) copies a SOURCE array NCOPIES times along dimension DIM.](https://twitter.com/fortrantip/status/1491380119616700417) 6:55 AM · Feb 9, 2022 [spread.f90](./spread.f90)<br>
