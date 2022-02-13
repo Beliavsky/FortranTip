@@ -19,7 +19,7 @@ use reverse_mod, only: reverse
 implicit none
 integer, parameter :: n = 3
 integer :: v(n) = [10,20,30]
-character (len=:), allocatable :: s, t
+character (len=:), allocatable :: s
 print*,size(v(n:1)),size(v(::-1)) ! 0 0
 ! v(::-1) = v(1:n:-1) is a zero-size array
 v = v(n:1:-1)
