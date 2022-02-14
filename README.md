@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code
+[Bounds of a derived type array component are preserved when passed to procedure.](https://twitter.com/fortrantip/status/1493214664754438149) 8:24 AM · Feb 14, 2022 [lbound_assumed_shape.f90](./lbound_assumed_shape.f90)<br>
 [Array lower bounds are not preserved when passed as assumed shape argument.](https://twitter.com/fortrantip/status/1493207320184164352) 7:55 AM · Feb 14, 2022 [lbound_assumed_shape.f90](./lbound_assumed_shape.f90)<br>
 [How to reverse an array or character string](https://twitter.com/fortrantip/status/1492844114492243971) 7:52 AM · Feb 13, 2022 [reverse.f90](./reverse.f90)<br>
 [Character variables can be compared like numerical variables.](https://twitter.com/fortrantip/status/1492489511821004805) 8:23 AM · Feb 12, 2022 [compare_character.f90](./compare_character.f90)<br>
