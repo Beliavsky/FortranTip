@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code
+[Bounds of an allocatable array are preserved when passed to an allocatable, intent(in) or intent(in out) argument.](https://twitter.com/fortrantip/status/1493569929668354051) 7:56 AM · Feb 15, 2022 [allocatable_bounds.f90](./allocatable_bounds.f90)<br>
 [Bounds of a derived type array component are preserved when passed to procedure.](https://twitter.com/fortrantip/status/1493214664754438149) 8:24 AM · Feb 14, 2022 [lbound_assumed_shape.f90](./lbound_assumed_shape.f90)<br>
 [Array lower bounds are not preserved when passed as assumed shape argument.](https://twitter.com/fortrantip/status/1493207320184164352) 7:55 AM · Feb 14, 2022 [lbound_assumed_shape.f90](./lbound_assumed_shape.f90)<br>
 [How to reverse an array or character string](https://twitter.com/fortrantip/status/1492844114492243971) 7:52 AM · Feb 13, 2022 [reverse.f90](./reverse.f90)<br>
