@@ -2,7 +2,8 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code
-[Derived type can be used where scalar is needed.](https://twitter.com/fortrantip/status/1494295438320713730) 7:59 AM · Feb 17, 2022 [elemental_func_arg.f90](./elemental_func_arg.f90)<br>
+[A Derived type can have derived type components.](https://twitter.com/fortrantip/status/1494651022010200065) 7:32 AM · Feb 18, 2022 [derived_type_composition.f90](./derived_type_composition.f90)<br>
+[A Derived type can be used where a scalar is needed.](https://twitter.com/fortrantip/status/1494295438320713730) 7:59 AM · Feb 17, 2022 [elemental_func_arg.f90](./elemental_func_arg.f90)<br>
 [Modern Fortran Reference Card and Quick Reference/Cheat Sheet.](https://twitter.com/fortrantip/status/1493920435997659145) 7:09 AM · Feb 16, 2022<br>
 [Bounds of an allocatable array are preserved when passed to an allocatable, intent(in) or intent(in out) argument.](https://twitter.com/fortrantip/status/1493569929668354051) 7:56 AM · Feb 15, 2022 [allocatable_bounds.f90](./allocatable_bounds.f90)<br>
 [Bounds of a derived type array component are preserved when passed to procedure.](https://twitter.com/fortrantip/status/1493214664754438149) 8:24 AM · Feb 14, 2022 [lbound_assumed_shape.f90](./lbound_assumed_shape.f90)<br>
