@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code
+[A derived type can have PRIVATE components.](https://twitter.com/fortrantip/status/1495372934537428997) 7:21 AM · Feb 20, 2022 [dt_private.f90](./dt_private.f90)<br>
 [A derived type component can have a default value.](https://twitter.com/fortrantip/status/1495001410894811139) 6:44 AM · Feb 19, 2022 [type_constructor_optional.f90](./type_constructor_optional.f90)<br>
 [A derived type can have derived type components.](https://twitter.com/fortrantip/status/1494651022010200065) 7:32 AM · Feb 18, 2022 [derived_type_composition.f90](./derived_type_composition.f90)<br>
 [A derived type can be used where a scalar is needed.](https://twitter.com/fortrantip/status/1494295438320713730) 7:59 AM · Feb 17, 2022 [elemental_func_arg.f90](./elemental_func_arg.f90)<br>
