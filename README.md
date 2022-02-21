@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code
+[storage_size(A) returns the storage size of argument A in bits.](https://twitter.com/fortrantip/status/1495738404356689926) 7:33 AM · Feb 21, 2022 [storage_size.f90](./storage_size.f90)<br>
 [A derived type can have PRIVATE components.](https://twitter.com/fortrantip/status/1495372934537428997) 7:21 AM · Feb 20, 2022 [dt_private.f90](./dt_private.f90)<br>
 [A derived type component can have a default value.](https://twitter.com/fortrantip/status/1495001410894811139) 6:44 AM · Feb 19, 2022 [type_constructor_optional.f90](./type_constructor_optional.f90)<br>
 [A derived type can have derived type components.](https://twitter.com/fortrantip/status/1494651022010200065) 7:32 AM · Feb 18, 2022 [derived_type_composition.f90](./derived_type_composition.f90)<br>
