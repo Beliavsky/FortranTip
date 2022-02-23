@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code
+[Unlimited polymorphic allocatable variable can be set to any type.](https://twitter.com/fortrantip/status/1496463950375960579) 7:36 AM · Feb 23, 2022 [unlimited_poly.f90](./unlimited_poly.f90)<br>
 [Fortran 2018 procedures can have assumed-rank arguments.](https://twitter.com/fortrantip/status/1496107321457528835) 7:59 AM · Feb 22, 2022 [assumed_rank.f90](./assumed_rank.f90)<br>
 [storage_size(A) returns the storage size of argument A in bits.](https://twitter.com/fortrantip/status/1495738404356689926) 7:33 AM · Feb 21, 2022 [storage_size.f90](./storage_size.f90)<br>
 [A derived type can have PRIVATE components.](https://twitter.com/fortrantip/status/1495372934537428997) 7:21 AM · Feb 20, 2022 [dt_private.f90](./dt_private.f90)<br>
