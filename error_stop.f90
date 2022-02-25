@@ -17,4 +17,4 @@ print*,sqrt_int(-1)
 stop "normal termination"
 end program main
 ! output:
-! error stop need i >= 0 in sqrt_int
+! ERROR STOP need i >= 0 in sqrt_int
