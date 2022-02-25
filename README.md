@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code
+[ERROR STOP vs. STOP.](https://twitter.com/fortrantip/status/1497181532146089985) 7:07 AM · Feb 25, 2022 [error_stop.f90](./error_stop.f90)<br>
 [Assumed type arguments have no declared type.](https://twitter.com/fortrantip/status/1496825853551992843) 7:34 AM · Feb 24, 2022 [assumed_type.f90](./assumed_type.f90)<br>
 [Unlimited polymorphic pointer can point to any type.](https://twitter.com/fortrantip/status/1496470666576642048) 8:03 AM · Feb 23, 2022 [unlimited_pointer.f90](./unlimited_pointer.f90)<br>
 [Unlimited polymorphic allocatable variable can be set to any type.](https://twitter.com/fortrantip/status/1496463950375960579) 7:36 AM · Feb 23, 2022 [unlimited_poly.f90](./unlimited_poly.f90)<br>
