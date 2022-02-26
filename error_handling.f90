@@ -1,8 +1,8 @@
-module mod
+module matrix_mult_mod
 implicit none
 contains
 subroutine mmult_1(a,b,c) ! set ierr with if-elseif: 8 lines
-real   , intent(in)  :: a(:,:) ! (m,n)
+real   , intent(in)  :: a(:,:) ! (m,n) = shape
 real   , intent(in)  :: b(:,:) ! (n,p)
 real   , intent(out) :: c(:,:) ! (m,p)
 integer              :: ierr
@@ -24,7 +24,8 @@ c = matmul(a,b)
 end subroutine mmult_1
 !
 subroutine mmult_2(a,b,c) ! set ierr with findloc: 1 line
-real   , intent(in)  :: a(:,:) ! (m,n)
+! matrix multiplication
+real   , intent(in)  :: a(:,:) ! (m,n) = shape
 real   , intent(in)  :: b(:,:) ! (n,p)
 real   , intent(out) :: c(:,:) ! (m,p)
 integer              :: ierr
@@ -38,10 +39,10 @@ else
 end if
 c = matmul(a,b)
 end subroutine mmult_2
-end module mod
+end module matrix_mult_mod
 !
 program main
-use mod
+use matrix_mult_mod, only: mmult_1, mmult_2
 implicit none
 integer, parameter :: m = 3, n = 5, p = 10
 real :: a(m,n),b(n,p),c(m,p)
