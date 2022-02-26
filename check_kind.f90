@@ -6,9 +6,15 @@ subroutine sub(x)
 class(*), intent(in) :: x
 select type (x)
    type is (real(real32))
-      print*,"type is real32"
+   block
+       real(real32) :: y,z
+       print*,"type is real32"
+   end block
    type is (real(real64))
-      print*,"type is real64"
+   block
+       real(real64) :: y,z
+       print*,"type is real64"
+   end block
 end select
 end subroutine sub
 end module check_kind_mod
