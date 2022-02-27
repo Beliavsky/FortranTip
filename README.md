@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code
+[Errors in a procedure can be handled with an optional argument.](https://twitter.com/fortrantip/status/1497902611915284482) 6:53 AM · Feb 27, 2022 [optional_err.f90](./optional_err.f90)<br>
 [Check that assumed-shape array arguments have consistent dimensions.](https://twitter.com/fortrantip/status/1497562564334694401) 8:21 AM · Feb 26, 2022 [error_handling.f90](./error_handling.f90)<br>
 [ERROR STOP vs. STOP.](https://twitter.com/fortrantip/status/1497181532146089985) 7:07 AM · Feb 25, 2022 [error_stop.f90](./error_stop.f90)<br>
 [Assumed type arguments have no declared type.](https://twitter.com/fortrantip/status/1496825853551992843) 7:34 AM · Feb 24, 2022 [assumed_type.f90](./assumed_type.f90)<br>
