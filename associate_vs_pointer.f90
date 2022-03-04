@@ -20,3 +20,11 @@ print*,"v =",v
 end associate 
 ! each ASSOCIATE must be terminated with END ASSOCIATE
 end program main
+! output:
+!  p =          20          30
+!  w =          20          30
+!  v =          10          20          30          40
+!  
+!  p =        2000        3000
+!  w =        2000        3000
+!  v =          10        2000        3000          40
