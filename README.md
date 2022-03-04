@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code
+[ASSOCIATE is preferred over POINTER to create an alias because POINTER can inhibit optimization.](https://twitter.com/fortrantip/status/1499720499181535247) 7:16 AM · Mar 4, 2022 [associate_vs_pointer.f90](./associate_vs_pointer.f90)<br>
 [Pointer assignment and ASSOCIATE can create shallow copies.](https://twitter.com/fortrantip/status/1499368960151760896) 7:59 AM · Mar 3, 2022 [copy.f90](./copy.f90)<br>
 [Internal procedures have access to variables from the host unless they are overridden by local variables.](https://twitter.com/fortrantip/status/1499014126265372685) 8:29 AM · Mar 2, 2022 [scope.f90](./scope.f90)<br>
 [BLOCK construct allows declarations after executable statements.](https://twitter.com/fortrantip/status/1498646417778548736) 8:08 AM · Mar 1, 2022 [block.f90](./block.f90)<br>
