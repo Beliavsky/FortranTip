@@ -1,26 +1,6 @@
 # FortranTip
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
-### Index of Tweets, Most Recent First, with Associated Code
-[Internal procedures have access to variables from the host unless they are overridden by local variables.](https://twitter.com/fortrantip/status/1499014126265372685) 8:29 AM · Mar 2, 2022 [scope.f90](./scope.f90)<br>
-[BLOCK construct allows declarations after executable statements.](https://twitter.com/fortrantip/status/1498646417778548736) 8:08 AM · Mar 1, 2022 [block.f90](./block.f90)<br>
-[Five free C C++ Fortran compiler families](https://twitter.com/fortrantip/status/1498291406556876806) 8:38 AM · Feb 28, 2022<br>
-[Errors in a procedure can be handled with an optional argument.](https://twitter.com/fortrantip/status/1497902611915284482) 6:53 AM · Feb 27, 2022 [optional_err.f90](./optional_err.f90)<br>
-[Check that assumed-shape array arguments have consistent dimensions.](https://twitter.com/fortrantip/status/1497562564334694401) 8:21 AM · Feb 26, 2022 [error_handling.f90](./error_handling.f90)<br>
-[ERROR STOP vs. STOP.](https://twitter.com/fortrantip/status/1497181532146089985) 7:07 AM · Feb 25, 2022 [error_stop.f90](./error_stop.f90)<br>
-[Assumed type arguments have no declared type.](https://twitter.com/fortrantip/status/1496825853551992843) 7:34 AM · Feb 24, 2022 [assumed_type.f90](./assumed_type.f90)<br>
-[Unlimited polymorphic pointer can point to any type.](https://twitter.com/fortrantip/status/1496470666576642048) 8:03 AM · Feb 23, 2022 [unlimited_pointer.f90](./unlimited_pointer.f90)<br>
-[Unlimited polymorphic allocatable variable can be set to any type.](https://twitter.com/fortrantip/status/1496463950375960579) 7:36 AM · Feb 23, 2022 [unlimited_poly.f90](./unlimited_poly.f90)<br>
-[Fortran 2018 procedures can have assumed-rank arguments.](https://twitter.com/fortrantip/status/1496107321457528835) 7:59 AM · Feb 22, 2022 [assumed_rank.f90](./assumed_rank.f90)<br>
-[storage_size(A) returns the storage size of argument A in bits.](https://twitter.com/fortrantip/status/1495738404356689926) 7:33 AM · Feb 21, 2022 [storage_size.f90](./storage_size.f90)<br>
-[A derived type can have PRIVATE components.](https://twitter.com/fortrantip/status/1495372934537428997) 7:21 AM · Feb 20, 2022 [dt_private.f90](./dt_private.f90)<br>
-[A derived type component can have a default value.](https://twitter.com/fortrantip/status/1495001410894811139) 6:44 AM · Feb 19, 2022 [type_constructor_optional.f90](./type_constructor_optional.f90)<br>
-[A derived type can have derived type components.](https://twitter.com/fortrantip/status/1494651022010200065) 7:32 AM · Feb 18, 2022 [derived_type_composition.f90](./derived_type_composition.f90)<br>
-[A derived type can be used where a scalar is needed.](https://twitter.com/fortrantip/status/1494295438320713730) 7:59 AM · Feb 17, 2022 [elemental_func_arg.f90](./elemental_func_arg.f90)<br>
-[Modern Fortran Reference Card and Quick Reference/Cheat Sheet.](https://twitter.com/fortrantip/status/1493920435997659145) 7:09 AM · Feb 16, 2022<br>
-
-
-
 ### Fortran resources
 [Fortran compilers and tutorials](https://twitter.com/fortrantip/status/1471897319671046147) 11:37 AM · Dec 17, 2021<br>
 [Intel Fortran Compiler (ifx)](https://twitter.com/fortrantip/status/1475494838074318852) 9:52 AM · Dec 27, 2021<br>
@@ -31,6 +11,8 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Google foo filetype:f90 or foo filetype:f to find Fortran code with foo.](https://twitter.com/fortrantip/status/1487557071818084357) 5:43 PM · Jan 29, 2022<br>
 [Polyhedron suggested compiler optimization options and Fortran 95 benchmarks](https://twitter.com/fortrantip/status/1487791193710866437) 9:13 AM · Jan 30, 2022<br>
 [Mistakes in Fortran 90 Programs That Might Surprise You, by Szymanski](https://twitter.com/fortrantip/status/1488844789575569408) 7:00 AM · Feb 2, 2022<br>
+[Modern Fortran Reference Card and Quick Reference/Cheat Sheet.](https://twitter.com/fortrantip/status/1493920435997659145) 7:09 AM · Feb 16, 2022<br>
+[Five free C C++ Fortran compiler families](https://twitter.com/fortrantip/status/1498291406556876806) 8:38 AM · Feb 28, 2022<br>
 
 ### Basics
 [Hello World](https://twitter.com/fortrantip/status/1471887565745799173) 10:58 AM · Dec 17, 2021 [hello_world.f90](./hello_world.f90)<br>
@@ -42,6 +24,8 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Case insensitivity](https://twitter.com/fortrantip/status/1477230568781795334) 10:49 AM · Jan 1, 2022 [case_insensitivity.f90](./case_insensitivity.f90)<br>
 [Use integer powers when possible.](https://twitter.com/fortrantip/status/1478765410405298176) 11:28 AM · Jan 5, 2022 [pow_real.f90](./pow_real.f90)<br>
 [Parenthesize a variable to copy it "on the fly".](https://twitter.com/fortrantip/status/1479071485859962880) 7:44 AM · Jan 6, 2022 [overlapping_arg.f90](./overlapping_arg.f90)<br>
+[ERROR STOP vs. STOP.](https://twitter.com/fortrantip/status/1497181532146089985) 7:07 AM · Feb 25, 2022 [error_stop.f90](./error_stop.f90)<br>
+[BLOCK construct allows declarations after executable statements.](https://twitter.com/fortrantip/status/1498646417778548736) 8:08 AM · Mar 1, 2022 [block.f90](./block.f90)<br>
 
 ### Style
 [New Fortran code should be written using free source form and stored in a file with the .f90 suffix.](https://twitter.com/fortrantip/status/1472183935044145157) 6:36 AM · Dec 18, 2021<br>
@@ -57,10 +41,15 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Fortran 2008 introduced z%re and z%im as alternatives to real(z) and aimag(z)](https://twitter.com/fortrantip/status/1478160269671124993) 7:24 PM · Jan 3, 2022 [im_re.f90](./im_re.f90)<br>
 [KIND numbers of types are not portable across compilers and should not be used directly.](https://twitter.com/fortrantip/status/1478526602136981511) 7:39 PM · Jan 4, 2022<br>
 [Use d0 or \_kind to make a constant double precision.](https://twitter.com/fortrantip/status/1478713534850736129) 8:02 AM · Jan 5, 2022 [precision.f90](./precision.f90)<br>
+[storage_size(A) returns the storage size of argument A in bits.](https://twitter.com/fortrantip/status/1495738404356689926) 7:33 AM · Feb 21, 2022 [storage_size.f90](./storage_size.f90)<br>
 
 ### Derived types
 [Derived type definition, initialization, and operator overloading](https://twitter.com/fortrantip/status/1474169072665440259) 6:04 PM · Dec 23, 2021 [date.f90](./date.f90)<br>
 [Store data as an array of derived types or a derived type with array components?](https://twitter.com/fortrantip/status/1475133178763427848) 9:55 AM · Dec 26, 2021 [derived_type_array.f90](./derived_type_array.f90)<br>
+[A derived type can be used where a scalar is needed.](https://twitter.com/fortrantip/status/1494295438320713730) 7:59 AM · Feb 17, 2022 [elemental_func_arg.f90](./elemental_func_arg.f90)<br>
+[A derived type can have derived type components.](https://twitter.com/fortrantip/status/1494651022010200065) 7:32 AM · Feb 18, 2022 [derived_type_composition.f90](./derived_type_composition.f90)<br>
+[A derived type component can have a default value.](https://twitter.com/fortrantip/status/1495001410894811139) 6:44 AM · Feb 19, 2022 [type_constructor_optional.f90](./type_constructor_optional.f90)<br>
+[A derived type can have PRIVATE components.](https://twitter.com/fortrantip/status/1495372934537428997) 7:21 AM · Feb 20, 2022 [dt_private.f90](./dt_private.f90)<br>
 
 ### Input and Output
 [Reading user input](https://twitter.com/fortrantip/status/1472941850218700805) 8:47 AM · Dec 20, 2021 [read_sum.f90](./read_sum.f90)<br>
@@ -109,6 +98,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Array lower bounds are not preserved when passed as assumed shape argument.](https://twitter.com/fortrantip/status/1493207320184164352) 7:55 AM · Feb 14, 2022 [lbound_assumed_shape.f90](./lbound_assumed_shape.f90)<br>
 [Bounds of a derived type array component are preserved when passed to procedure.](https://twitter.com/fortrantip/status/1493214664754438149) 8:24 AM · Feb 14, 2022 [lbound_assumed_shape.f90](./lbound_assumed_shape.f90)<br>
 [Bounds of an allocatable array are preserved when passed to an allocatable, intent(in) or intent(in out) argument.](https://twitter.com/fortrantip/status/1493569929668354051) 7:56 AM · Feb 15, 2022 [allocatable_bounds.f90](./allocatable_bounds.f90)<br>
+[Check that assumed-shape array arguments have consistent dimensions.](https://twitter.com/fortrantip/status/1497562564334694401) 8:21 AM · Feb 26, 2022 [error_handling.f90](./error_handling.f90)<br>
 
 ### Character variables
 [An array of character variables has elements of the same LEN(gth).](https://twitter.com/fortrantip/status/1472207576133783564) 8:10 AM · Dec 18, 2021 [char.f90](./char.f90)<br>
@@ -152,6 +142,9 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [ALLOCATABLE INTENT(OUT) argument is deallocated.](https://twitter.com/fortrantip/status/1485957543990018053) 7:47 AM · Jan 25, 2022 [intent_out_allocatable.f90](./intent_out_allocatable.f90)<br>
 [Dummy argument that is changed must be definable in the caller.](https://twitter.com/fortrantip/status/1486313053092208645) 7:20 AM · Jan 26, 2022 [definable_arg.f90](./definable_arg.f90)<br>
 [A procedure can have an argument that is another PROCEDURE with an INTERFACE.](https://twitter.com/fortrantip/status/1487410814919356419) 8:02 AM · Jan 29, 2022 [trapezoid.f90](./trapezoid.f90)<br>
+[Fortran 2018 procedures can have assumed-rank arguments.](https://twitter.com/fortrantip/status/1496107321457528835) 7:59 AM · Feb 22, 2022 [assumed_rank.f90](./assumed_rank.f90)<br>
+[Errors in a procedure can be handled with an optional argument.](https://twitter.com/fortrantip/status/1497902611915284482) 6:53 AM · Feb 27, 2022 [optional_err.f90](./optional_err.f90)<br>
+[Internal procedures have access to variables from the host unless they are overridden by local variables.](https://twitter.com/fortrantip/status/1499014126265372685) 8:29 AM · Mar 2, 2022 [scope.f90](./scope.f90)<br>
 
 ### Math intrinsic functions
 [Use GAMMA to compute factorials](https://twitter.com/fortrantip/status/1474357943667671060) 6:35 AM · Dec 24, 2021 [factorial.f90](./factorial.f90)<br>
@@ -184,5 +177,11 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [ASSOCIATE is preferred over POINTER to create an alias because POINTER can inhibit optimization.](https://twitter.com/fortrantip/status/1499720499181535247) 7:16 AM · Mar 4, 2022 [associate_vs_pointer.f90](./associate_vs_pointer.f90)<br>
 [ASSOCIATE statement can set several independent variables.](https://twitter.com/fortrantip/status/1500087163668549636) 7:33 AM · Mar 5, 2022 [associate_many.f90](./associate_many.f90)<br>
 [A variable ASSOCIATEd to an ALLOCATABLE variable is not ALLOCATABLE.](https://twitter.com/fortrantip/status/1500448694734364675) 7:30 AM · Mar 6, 2022 [associate_alloc.f90](./associate_alloc.f90)<br>
+
+### Generic programming
+[Unlimited polymorphic allocatable variable can be set to any type.](https://twitter.com/fortrantip/status/1496463950375960579) 7:36 AM · Feb 23, 2022 [unlimited_poly.f90](./unlimited_poly.f90)<br>
+[Unlimited polymorphic pointer can point to any type.](https://twitter.com/fortrantip/status/1496470666576642048) 8:03 AM · Feb 23, 2022 [unlimited_pointer.f90](./unlimited_pointer.f90)<br>
+[Assumed type arguments have no declared type.](https://twitter.com/fortrantip/status/1496825853551992843) 7:34 AM · Feb 24, 2022 [assumed_type.f90](./assumed_type.f90)<br>
+
 
 
