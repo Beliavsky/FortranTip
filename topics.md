@@ -1,4 +1,4 @@
-# FortranTip
+# Fortran Tips by Topic
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Fortran resources
