@@ -19,7 +19,6 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Intrinsic data types: integer, real, complex, logical, and character](https://twitter.com/fortrantip/status/1471890355561943054) 11:09 AM · Dec 17, 2021<br>
 [\** is the exponentiation operator.](https://twitter.com/fortrantip/status/1471903802185986050) 12:03 PM · Dec 17, 2021 [power.f90](./power.f90)<br>
 [Integer division truncates.](https://twitter.com/fortrantip/status/1471936756857643008) 2:14 PM · Dec 17, 2021<br>
-[Use PARAMETERs in modules to define physical and mathematical constants](https://twitter.com/fortrantip/status/1472718436040073226) 6:00 PM · Dec 19, 2021 [module_parameter.f90](./module_parameter.f90)<br>
 [Consider using a tolerance to compare floats](https://twitter.com/fortrantip/status/1475826650835214338) 7:51 AM · Dec 28, 2021 [compare_floats.f90](./compare_floats.f90)<br>
 [Case insensitivity](https://twitter.com/fortrantip/status/1477230568781795334) 10:49 AM · Jan 1, 2022 [case_insensitivity.f90](./case_insensitivity.f90)<br>
 [Use integer powers when possible.](https://twitter.com/fortrantip/status/1478765410405298176) 11:28 AM · Jan 5, 2022 [pow_real.f90](./pow_real.f90)<br>
@@ -152,6 +151,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 
 ### Modules
 [USE, ONLY to avoid polluting the namespace](https://twitter.com/fortrantip/status/1472613921886552065) 11:04 AM · Dec 19, 2021<br>
+[Use PARAMETERs in modules to define physical and mathematical constants](https://twitter.com/fortrantip/status/1472718436040073226) 6:00 PM · Dec 19, 2021 [module_parameter.f90](./module_parameter.f90)<br>
 [Function overloading using an interface with module procedures](https://twitter.com/fortrantip/status/1472629090758836229) 12:05 PM · Dec 19, 2021 [interface.f90](./interface.f90)<br>
 [Name modules and the source files containing them consistently, with one module per file.](https://twitter.com/fortrantip/status/1473340740055015431) 11:13 AM · Dec 21, 2021<br>
 [Use the same name for analogous procedures defined in different modules using an INTERFACE](https://twitter.com/fortrantip/status/1481247763048407042) 7:52 AM · Jan 12, 2022 [shared_interface.f90](./shared_interface.f90)<br>
