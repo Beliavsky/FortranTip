@@ -18,38 +18,8 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [A derived type can have derived type components.](https://twitter.com/fortrantip/status/1494651022010200065) 7:32 AM · Feb 18, 2022 [derived_type_composition.f90](./derived_type_composition.f90)<br>
 [A derived type can be used where a scalar is needed.](https://twitter.com/fortrantip/status/1494295438320713730) 7:59 AM · Feb 17, 2022 [elemental_func_arg.f90](./elemental_func_arg.f90)<br>
 [Modern Fortran Reference Card and Quick Reference/Cheat Sheet.](https://twitter.com/fortrantip/status/1493920435997659145) 7:09 AM · Feb 16, 2022<br>
-[Bounds of an allocatable array are preserved when passed to an allocatable, intent(in) or intent(in out) argument.](https://twitter.com/fortrantip/status/1493569929668354051) 7:56 AM · Feb 15, 2022 [allocatable_bounds.f90](./allocatable_bounds.f90)<br>
-[Bounds of a derived type array component are preserved when passed to procedure.](https://twitter.com/fortrantip/status/1493214664754438149) 8:24 AM · Feb 14, 2022 [lbound_assumed_shape.f90](./lbound_assumed_shape.f90)<br>
-[Array lower bounds are not preserved when passed as assumed shape argument.](https://twitter.com/fortrantip/status/1493207320184164352) 7:55 AM · Feb 14, 2022 [lbound_assumed_shape.f90](./lbound_assumed_shape.f90)<br>
-[How to reverse an array or character string](https://twitter.com/fortrantip/status/1492844114492243971) 7:52 AM · Feb 13, 2022 [reverse.f90](./reverse.f90)<br>
-[Character variables can be compared like numerical variables.](https://twitter.com/fortrantip/status/1492489511821004805) 8:23 AM · Feb 12, 2022 [compare_character.f90](./compare_character.f90)<br>
-[Internal write to character variable too small to hold output causes run-time error.](https://twitter.com/fortrantip/status/1492114908351283206) 7:34 AM · Feb 11, 2022 [write_char.f90](./write_char.f90)<br>
-[Convert from strings to numbers and the reverse using internal READ and WRITE.](https://twitter.com/fortrantip/status/1491754652030885888) 7:43 AM · Feb 10, 2022 [internal_read_write.f90](./internal_read_write.f90)<br>
-[spread(source, dim, ncopies) copies a SOURCE array NCOPIES times along dimension DIM.](https://twitter.com/fortrantip/status/1491380119616700417) 6:55 AM · Feb 9, 2022 [spread.f90](./spread.f90)<br>
-[Concatenate arrays and scalars in an array constructor []](https://twitter.com/fortrantip/status/1491021968799600641) 7:11 AM · Feb 8, 2022 [concatenate.f90](./concatenate.f90)<br>
-[get_command() and get_command_argument() get command line arguments.](https://twitter.com/fortrantip/status/1490666160504905730) 7:38 AM · Feb 7, 2022 [get_command.f90](./get_command.f90)<br>
-[Demonstrate subroutine get_environment_variable(name,value) of Fortran 2003.](https://twitter.com/fortrantip/status/1490329749578731530) 9:21 AM · Feb 6, 2022 [get_env.f90](./get_env.f90)<br>
-[Document results with compiler_version(), compiler_options(), and other intrinsics.](https://twitter.com/fortrantip/status/1489952805649588226) 8:23 AM · Feb 5, 2022 [xpi.f90](./xpi.f90)<br>
-[Execute_command_line() can call gnuplot to display a plot during a run.](https://twitter.com/fortrantip/status/1489580579653918729) 7:44 AM · Feb 4, 2022<br>
-[Execute_command_line() to pass a command to the shell.](https://twitter.com/fortrantip/status/1489212898777964545) 7:23 AM · Feb 3, 2022 [execute.f90](./execute.f90)<br>
-[Mistakes in Fortran 90 Programs That Might Surprise You, by Szymanski](https://twitter.com/fortrantip/status/1488844789575569408) 7:00 AM · Feb 2, 2022<br>
-[Setting the values of an array section](https://twitter.com/fortrantip/status/1488492649166295043) 7:41 AM · Feb 1, 2022 [truloc.f90](./truloc.f90)<br>
-[Vector subscript can be used for non-contiguous array sections.](https://twitter.com/fortrantip/status/1488132722761609216) 7:51 AM · Jan 31, 2022 [vector_subscript.f90](./vector_subscript.f90)<br>
-[Polyhedron suggested compiler optimization options and Fortran 95 benchmarks](https://twitter.com/fortrantip/status/1487791193710866437) 9:13 AM · Jan 30, 2022<br>
-[Google foo filetype:f90 or foo filetype:f to find Fortran code with foo.](https://twitter.com/fortrantip/status/1487557071818084357) 5:43 PM · Jan 29, 2022<br>
-[A procedure can have an argument that is another PROCEDURE with an INTERFACE.](https://twitter.com/fortrantip/status/1487410814919356419) 8:02 AM · Jan 29, 2022 [trapezoid.f90](./trapezoid.f90)<br>
-[Call ieee_set_halting_mode() to set floating point conditions that halt program.](https://twitter.com/fortrantip/status/1487084606780325889) 10:26 AM · Jan 28, 2022 [ieee_exceptions.f90](./ieee_exceptions.f90)<br>
-[IEEE_ARITHMETIC module has functions to test numerical conditions.](https://twitter.com/fortrantip/status/1486706121335263246) 9:22 AM · Jan 27, 2022 [ieee_arithmetic.f90](./ieee_arithmetic.f90)<br>
-[Dummy argument that is changed must be definable in the caller.](https://twitter.com/fortrantip/status/1486313053092208645) 7:20 AM · Jan 26, 2022 [definable_arg.f90](./definable_arg.f90)<br>
-[ALLOCATABLE INTENT(OUT) argument is deallocated.](https://twitter.com/fortrantip/status/1485957543990018053) 7:47 AM · Jan 25, 2022 [intent_out_allocatable.f90](./intent_out_allocatable.f90)<br>
-[An INTENT(OUT) argument is undefined at the beginning of a procedure](https://twitter.com/fortrantip/status/1485594671300632576) 7:45 AM · Jan 24, 2022 [intent_out_undefined.f90](./intent_out_undefined.f90)<br>
-[Turn compiler warnings into errors to force code defects to be fixed.](https://twitter.com/fortrantip/status/1485235396179079173) 7:58 AM · Jan 23, 2022 [warnings.f90](./warnings.f90)<br>
-[VALUE attribute for procedure arguments introduced in Fortran 2003](https://twitter.com/fortrantip/status/1484874794352918528) 8:05 AM · Jan 22, 2022 [value.f90](./value.f90)<br>
-[Use INTRINSIC to specify that compiler-provided procedures and modules are referenced](https://twitter.com/fortrantip/status/1484517091738886147) 8:23 AM · Jan 21, 2022 [intrinsic.f90](./intrinsic.f90)<br>
-[PROTECTED module variables cannot be changed outside the module.](https://twitter.com/fortrantip/status/1484136749924245509) 7:12 AM · Jan 20, 2022 [protected.f90](./protected.f90)<br>
-[Array constructor with [] was introduced in Fortran 2003. Still valid is (//)](https://twitter.com/fortrantip/status/1483773578839474180) 7:09 AM · Jan 19, 2022<br>
-[Impure elemental procedure can be used to generate array of non-uniform variates](https://twitter.com/fortrantip/status/1483430581232967684) 8:26 AM · Jan 18, 2022 [random_normal.f90](./random_normal.f90)<br>
-[Fortran 2008 introduced IMPURE ELEMENTAL procedures](https://twitter.com/fortrantip/status/1483063464562204672) 8:07 AM · Jan 17, 2022 [impure_elemental.f90](./impure_elemental.f90)<br>
+
+
 
 ### Fortran resources
 [Fortran compilers and tutorials](https://twitter.com/fortrantip/status/1471897319671046147) 11:37 AM · Dec 17, 2021<br>
@@ -58,18 +28,24 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Compiler Support for the Fortran 2008 and 2018 Standards](https://twitter.com/fortrantip/status/1476281645011505162) 1:59 PM · Dec 29, 2021<br>
 [Fortran-lang suggested variable naming conventions](https://twitter.com/fortrantip/status/1477282631553269764) 9:16 AM · Jan 1, 2022<br>
 [List of Fortran compilers, build tools, text editors, etc.](https://twitter.com/fortrantip/status/1482709817466707969) 8:42 AM · Jan 16, 2022 [list](https://github.com/Beliavsky/Fortran-Tools)<br>
+[Google foo filetype:f90 or foo filetype:f to find Fortran code with foo.](https://twitter.com/fortrantip/status/1487557071818084357) 5:43 PM · Jan 29, 2022<br>
+[Polyhedron suggested compiler optimization options and Fortran 95 benchmarks](https://twitter.com/fortrantip/status/1487791193710866437) 9:13 AM · Jan 30, 2022<br>
+[Mistakes in Fortran 90 Programs That Might Surprise You, by Szymanski](https://twitter.com/fortrantip/status/1488844789575569408) 7:00 AM · Feb 2, 2022<br>
 
 ### Basics
 [Hello World](https://twitter.com/fortrantip/status/1471887565745799173) 10:58 AM · Dec 17, 2021 [hello_world.f90](./hello_world.f90)<br>
 [Intrinsic data types: integer, real, complex, logical, and character](https://twitter.com/fortrantip/status/1471890355561943054) 11:09 AM · Dec 17, 2021<br>
 [\** is the exponentiation operator.](https://twitter.com/fortrantip/status/1471903802185986050) 12:03 PM · Dec 17, 2021 [power.f90](./power.f90)<br>
 [Integer division truncates.](https://twitter.com/fortrantip/status/1471936756857643008) 2:14 PM · Dec 17, 2021<br>
-[New Fortran code should be written using free source form and stored in a file with the .f90 suffix.](https://twitter.com/fortrantip/status/1472183935044145157) 6:36 AM · Dec 18, 2021<br>
 [Use PARAMETERs in modules to define physical and mathematical constants](https://twitter.com/fortrantip/status/1472718436040073226) 6:00 PM · Dec 19, 2021 [module_parameter.f90](./module_parameter.f90)<br>
 [Consider using a tolerance to compare floats](https://twitter.com/fortrantip/status/1475826650835214338) 7:51 AM · Dec 28, 2021 [compare_floats.f90](./compare_floats.f90)<br>
 [Case insensitivity](https://twitter.com/fortrantip/status/1477230568781795334) 10:49 AM · Jan 1, 2022 [case_insensitivity.f90](./case_insensitivity.f90)<br>
 [Use integer powers when possible.](https://twitter.com/fortrantip/status/1478765410405298176) 11:28 AM · Jan 5, 2022 [pow_real.f90](./pow_real.f90)<br>
 [Parenthesize a variable to copy it "on the fly".](https://twitter.com/fortrantip/status/1479071485859962880) 7:44 AM · Jan 6, 2022 [overlapping_arg.f90](./overlapping_arg.f90)<br>
+
+### Style
+[New Fortran code should be written using free source form and stored in a file with the .f90 suffix.](https://twitter.com/fortrantip/status/1472183935044145157) 6:36 AM · Dec 18, 2021<br>
+[Turn compiler warnings into errors to force code defects to be fixed.](https://twitter.com/fortrantip/status/1485235396179079173) 7:58 AM · Jan 23, 2022 [warnings.f90](./warnings.f90)<br>
 
 ### Data types
 [Replace non-standard REAL\*8 declaration with REAL(KIND=REAL64)](https://twitter.com/fortrantip/status/1472772577600942083) 9:35 PM · Dec 19, 2021<br>
@@ -122,6 +98,17 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Many compilers evaluate ALL(x==y) efficiently with short-circuiting](https://twitter.com/fortrantip/status/1476255945923641347) 12:16 PM · Dec 29, 2021<br>
 [Use parameters to dimension fixed-size arrays to make a code easier to change](https://twitter.com/fortrantip/status/1478331686412861440) 6:45 AM · Jan 4, 2022<br>
 [DIMENSION can be used to declare several arrays of the same SHAPE](https://twitter.com/fortrantip/status/1480162604559523840) 8:00 AM · Jan 9, 2022 [dimension.f90](./dimension.f90)<br>
+[Array constructor with [] was introduced in Fortran 2003. Still valid is (//)](https://twitter.com/fortrantip/status/1483773578839474180) 7:09 AM · Jan 19, 2022<br>
+[Vector subscript can be used for non-contiguous array sections.](https://twitter.com/fortrantip/status/1488132722761609216) 7:51 AM · Jan 31, 2022 [vector_subscript.f90](./vector_subscript.f90)<br>
+[Setting the values of an array section](https://twitter.com/fortrantip/status/1488492649166295043) 7:41 AM · Feb 1, 2022 [truloc.f90](./truloc.f90)<br>
+[Concatenate arrays and scalars in an array constructor []](https://twitter.com/fortrantip/status/1491021968799600641) 7:11 AM · Feb 8, 2022 [concatenate.f90](./concatenate.f90)<br>
+[spread(source, dim, ncopies) copies a SOURCE array NCOPIES times along dimension DIM.](https://twitter.com/fortrantip/status/1491380119616700417) 6:55 AM · Feb 9, 2022 [spread.f90](./spread.f90)<br>
+[How to reverse an array or character string](https://twitter.com/fortrantip/status/1492844114492243971) 7:52 AM · Feb 13, 2022 [reverse.f90](./reverse.f90)<br>
+
+### Array arguments
+[Array lower bounds are not preserved when passed as assumed shape argument.](https://twitter.com/fortrantip/status/1493207320184164352) 7:55 AM · Feb 14, 2022 [lbound_assumed_shape.f90](./lbound_assumed_shape.f90)<br>
+[Bounds of a derived type array component are preserved when passed to procedure.](https://twitter.com/fortrantip/status/1493214664754438149) 8:24 AM · Feb 14, 2022 [lbound_assumed_shape.f90](./lbound_assumed_shape.f90)<br>
+[Bounds of an allocatable array are preserved when passed to an allocatable, intent(in) or intent(in out) argument.](https://twitter.com/fortrantip/status/1493569929668354051) 7:56 AM · Feb 15, 2022 [allocatable_bounds.f90](./allocatable_bounds.f90)<br>
 
 ### Character variables
 [An array of character variables has elements of the same LEN(gth).](https://twitter.com/fortrantip/status/1472207576133783564) 8:10 AM · Dec 18, 2021 [char.f90](./char.f90)<br>
@@ -132,6 +119,9 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Substrings of character variable arrays](https://twitter.com/fortrantip/status/1479128610623606787) 11:31 AM · Jan 6, 2022 [substring.f90](./substring.f90)<br>
 [Intrinsic character functions](https://twitter.com/fortrantip/status/1479391930744283144) 4:58 AM · Jan 7, 2022 [string_func.f90](./string_func.f90)<br>
 [Syntax for character array without manual padding](https://twitter.com/fortrantip/status/1479487784205402116) 11:19 AM · Jan 7, 2022 [character_array.f90](./character_array.f90)<br>
+[Convert from strings to numbers and the reverse using internal READ and WRITE.](https://twitter.com/fortrantip/status/1491754652030885888) 7:43 AM · Feb 10, 2022 [internal_read_write.f90](./internal_read_write.f90)<br>
+[Internal write to character variable too small to hold output causes run-time error.](https://twitter.com/fortrantip/status/1492114908351283206) 7:34 AM · Feb 11, 2022 [write_char.f90](./write_char.f90)<br>
+[Character variables can be compared like numerical variables.](https://twitter.com/fortrantip/status/1492489511821004805) 8:23 AM · Feb 12, 2022 [compare_character.f90](./compare_character.f90)<br>
 
 ### Allocation
 [Fortran has allocation on assignment.](https://twitter.com/fortrantip/status/1472181598833549316) 6:26 AM · Dec 18, 2021 [alloc.f90](./alloc.f90)<br>
@@ -154,6 +144,14 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Propagation of an optional argument](https://twitter.com/fortrantip/status/1479805991382360066) 8:23 AM · Jan 8, 2022 [optional_use.f90](./optional_use.f90)<br>
 [UnALLOCATED variable passed to a procedure is not PRESENT there.](https://twitter.com/fortrantip/status/1480585104997163018) 11:59 AM · Jan 10, 2022<br>
 [Procedures can be called with a mix of named and positional arguments.](https://twitter.com/fortrantip/status/1480893840068390913) 8:26 AM · Jan 11, 2022 [arguments.f90](./arguments.f90)<br>
+[Fortran 2008 introduced IMPURE ELEMENTAL procedures](https://twitter.com/fortrantip/status/1483063464562204672) 8:07 AM · Jan 17, 2022 [impure_elemental.f90](./impure_elemental.f90)<br>
+[Impure elemental procedure can be used to generate array of non-uniform variates](https://twitter.com/fortrantip/status/1483430581232967684) 8:26 AM · Jan 18, 2022 [random_normal.f90](./random_normal.f90)<br>
+[Use INTRINSIC to specify that compiler-provided procedures and modules are referenced](https://twitter.com/fortrantip/status/1484517091738886147) 8:23 AM · Jan 21, 2022 [intrinsic.f90](./intrinsic.f90)<br>
+[VALUE attribute for procedure arguments introduced in Fortran 2003](https://twitter.com/fortrantip/status/1484874794352918528) 8:05 AM · Jan 22, 2022 [value.f90](./value.f90)<br>
+[An INTENT(OUT) argument is undefined at the beginning of a procedure](https://twitter.com/fortrantip/status/1485594671300632576) 7:45 AM · Jan 24, 2022 [intent_out_undefined.f90](./intent_out_undefined.f90)<br>
+[ALLOCATABLE INTENT(OUT) argument is deallocated.](https://twitter.com/fortrantip/status/1485957543990018053) 7:47 AM · Jan 25, 2022 [intent_out_allocatable.f90](./intent_out_allocatable.f90)<br>
+[Dummy argument that is changed must be definable in the caller.](https://twitter.com/fortrantip/status/1486313053092208645) 7:20 AM · Jan 26, 2022 [definable_arg.f90](./definable_arg.f90)<br>
+[A procedure can have an argument that is another PROCEDURE with an INTERFACE.](https://twitter.com/fortrantip/status/1487410814919356419) 8:02 AM · Jan 29, 2022 [trapezoid.f90](./trapezoid.f90)<br>
 
 ### Math intrinsic functions
 [Use GAMMA to compute factorials](https://twitter.com/fortrantip/status/1474357943667671060) 6:35 AM · Dec 24, 2021 [factorial.f90](./factorial.f90)<br>
@@ -167,6 +165,18 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [How to rename an imported module entity](https://twitter.com/fortrantip/status/1481597325499842563) 7:01 AM · Jan 13, 2022 [rename.f90](./rename.f90)<br>
 [Module entities are PUBLIC by default.](https://twitter.com/fortrantip/status/1481970740475932676) 7:45 AM · Jan 14, 2022 [private.f90](./private.f90)<br>
 [An unqualified USE foo statement imports public entities defined in foo and what foo imported.](https://twitter.com/fortrantip/status/1482328990798987266) 7:29 AM · Jan 15, 2022 [imports.f90](./imports.f90)<br>
+[PROTECTED module variables cannot be changed outside the module.](https://twitter.com/fortrantip/status/1484136749924245509) 7:12 AM · Jan 20, 2022 [protected.f90](./protected.f90)<br>
+
+### Environment variables
+[Execute_command_line() to pass a command to the shell.](https://twitter.com/fortrantip/status/1489212898777964545) 7:23 AM · Feb 3, 2022 [execute.f90](./execute.f90)<br>
+[Execute_command_line() can call gnuplot to display a plot during a run.](https://twitter.com/fortrantip/status/1489580579653918729) 7:44 AM · Feb 4, 2022<br>
+[Document results with compiler_version(), compiler_options(), and other intrinsics.](https://twitter.com/fortrantip/status/1489952805649588226) 8:23 AM · Feb 5, 2022 [xpi.f90](./xpi.f90)<br>
+[Demonstrate subroutine get_environment_variable(name,value) of Fortran 2003.](https://twitter.com/fortrantip/status/1490329749578731530) 9:21 AM · Feb 6, 2022 [get_env.f90](./get_env.f90)<br>
+[get_command() and get_command_argument() get command line arguments.](https://twitter.com/fortrantip/status/1490666160504905730) 7:38 AM · Feb 7, 2022 [get_command.f90](./get_command.f90)<br>
+
+### Floating point arithmetic
+[Call ieee_set_halting_mode() to set floating point conditions that halt program.](https://twitter.com/fortrantip/status/1487084606780325889) 10:26 AM · Jan 28, 2022 [ieee_exceptions.f90](./ieee_exceptions.f90)<br>
+[IEEE_ARITHMETIC module has functions to test numerical conditions.](https://twitter.com/fortrantip/status/1486706121335263246) 9:22 AM · Jan 27, 2022 [ieee_arithmetic.f90](./ieee_arithmetic.f90)<br>
 
 ### Associate
 [Associate creates an alias for expressions or variables.](https://twitter.com/fortrantip/status/1472565511628197891) 7:52 AM · Dec 19, 2021 [assoc.f90](./assoc.f90)<br>
