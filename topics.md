@@ -2,10 +2,6 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code
-[A variable ASSOCIATEd to an ALLOCATABLE variable is not ALLOCATABLE.](https://twitter.com/fortrantip/status/1500448694734364675) 7:30 AM · Mar 6, 2022 [associate_alloc.f90](./associate_alloc.f90)<br>
-[ASSOCIATE statement can set several independent variables.](https://twitter.com/fortrantip/status/1500087163668549636) 7:33 AM · Mar 5, 2022 [associate_many.f90](./associate_many.f90)<br>
-[ASSOCIATE is preferred over POINTER to create an alias because POINTER can inhibit optimization.](https://twitter.com/fortrantip/status/1499720499181535247) 7:16 AM · Mar 4, 2022 [associate_vs_pointer.f90](./associate_vs_pointer.f90)<br>
-[Pointer assignment and ASSOCIATE can create shallow copies.](https://twitter.com/fortrantip/status/1499368960151760896) 7:59 AM · Mar 3, 2022 [copy.f90](./copy.f90)<br>
 [Internal procedures have access to variables from the host unless they are overridden by local variables.](https://twitter.com/fortrantip/status/1499014126265372685) 8:29 AM · Mar 2, 2022 [scope.f90](./scope.f90)<br>
 [BLOCK construct allows declarations after executable statements.](https://twitter.com/fortrantip/status/1498646417778548736) 8:08 AM · Mar 1, 2022 [block.f90](./block.f90)<br>
 [Five free C C++ Fortran compiler families](https://twitter.com/fortrantip/status/1498291406556876806) 8:38 AM · Feb 28, 2022<br>
@@ -149,3 +145,9 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 ### Loops
 [DO-ENDDO loop](https://twitter.com/fortrantip/status/1471891644370796550) 11:14 AM · Dec 17, 2021 [loop.f90](./loop.f90)<br>
 [EXIT a loop](https://twitter.com/fortrantip/status/1471895490346291206) 11:30 AM · Dec 17, 2021 [sum_exit.f90](./sum_exit.f90)<br>
+
+### Associate
+[A variable ASSOCIATEd to an ALLOCATABLE variable is not ALLOCATABLE.](https://twitter.com/fortrantip/status/1500448694734364675) 7:30 AM · Mar 6, 2022 [associate_alloc.f90](./associate_alloc.f90)<br>
+[ASSOCIATE statement can set several independent variables.](https://twitter.com/fortrantip/status/1500087163668549636) 7:33 AM · Mar 5, 2022 [associate_many.f90](./associate_many.f90)<br>
+[ASSOCIATE is preferred over POINTER to create an alias because POINTER can inhibit optimization.](https://twitter.com/fortrantip/status/1499720499181535247) 7:16 AM · Mar 4, 2022 [associate_vs_pointer.f90](./associate_vs_pointer.f90)<br>
+[Pointer assignment and ASSOCIATE can create shallow copies.](https://twitter.com/fortrantip/status/1499368960151760896) 7:59 AM · Mar 3, 2022 [copy.f90](./copy.f90)<br>
