@@ -81,6 +81,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Advance="no" specifier of WRITE](https://twitter.com/fortrantip/status/1477788560359141382) 6:47 PM · Jan 2, 2022 [advance_no.f90](./advance_no.f90)<br>
 [Len of character variable function result can depend on arguments](https://twitter.com/fortrantip/status/1477632693617799169) 8:27 AM · Jan 2, 2022 [join.f90](./join.f90)<br>
 [How size of an array function result can depend on function arguments](https://twitter.com/fortrantip/status/1477606275643019269) 6:42 AM · Jan 2, 2022 [array_func.f90](./array_func.f90)<br>
+[List of the syntax and purpose of Fortran intrinsics, with usage examples](https://twitter.com/fortrantip/status/1477320332751130625) 11:46 AM · Jan 1, 2022<br>
 [Do case-insensitive string comparisons by converting to lower case](https://twitter.com/fortrantip/status/1477278656376590340) 9:00 AM · Jan 1, 2022 [lower_case.f90](./lower_case.f90)<br>
 [Fortran-lang suggested variable naming conventions](https://twitter.com/fortrantip/status/1477282631553269764) 9:16 AM · Jan 1, 2022<br>
 [Case insensitivity](https://twitter.com/fortrantip/status/1477230568781795334) 10:49 AM · Jan 1, 2022 [case_insensitivity.f90](./case_insensitivity.f90)<br>
