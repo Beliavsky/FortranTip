@@ -7,6 +7,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [To learn about Fortran beyond F95, read the New Features articles of John Reid](https://twitter.com/fortrantip/status/1476150602866511873) 5:18 AM · Dec 29, 2021<br>
 [Compiler Support for the Fortran 2008 and 2018 Standards](https://twitter.com/fortrantip/status/1476281645011505162) 1:59 PM · Dec 29, 2021<br>
 [Fortran-lang suggested variable naming conventions](https://twitter.com/fortrantip/status/1477282631553269764) 9:16 AM · Jan 1, 2022<br>
+[List of the syntax and purpose of Fortran intrinsics, with usage examples](https://twitter.com/fortrantip/status/1477320332751130625) 11:46 AM · Jan 1, 2022<br>
 [List of Fortran compilers, build tools, text editors, etc.](https://twitter.com/fortrantip/status/1482709817466707969) 8:42 AM · Jan 16, 2022 [list](https://github.com/Beliavsky/Fortran-Tools)<br>
 [Google foo filetype:f90 or foo filetype:f to find Fortran code with foo.](https://twitter.com/fortrantip/status/1487557071818084357) 5:43 PM · Jan 29, 2022<br>
 [Polyhedron suggested compiler optimization options and Fortran 95 benchmarks](https://twitter.com/fortrantip/status/1487791193710866437) 9:13 AM · Jan 30, 2022<br>
