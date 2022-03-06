@@ -118,14 +118,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Demonstrate optional arguments and RANDOM_NUMBER](https://twitter.com/fortrantip/status/1472684194765672450) 3:44 PM · Dec 19, 2021 [optional.f90](./optional.f90)<br>
 [Function overloading using an interface with module procedures](https://twitter.com/fortrantip/status/1472629090758836229) 12:05 PM · Dec 19, 2021 [interface.f90](./interface.f90)<br>
 [USE, ONLY to avoid polluting the namespace](https://twitter.com/fortrantip/status/1472613921886552065) 11:04 AM · Dec 19, 2021<br>
-[Put functions and subroutines in modules to ensure that interfaces are checked.](https://twitter.com/fortrantip/status/1472610403884670976) 10:50 AM · Dec 19, 2021 [module.f90](./module.f90)<br>
-[ELEMENTAL functions broadcast arguments](https://twitter.com/fortrantip/status/1472606914857078793) 10:37 AM · Dec 19, 2021 [elemental.f90](./elemental.f90)<br>
-[Functions should be PURE and have INTENT(IN) arguments](https://twitter.com/fortrantip/status/1472603894886932482) 10:25 AM · Dec 19, 2021 [func.f90](./func.f90)<br>
-[PACK selects elements](https://twitter.com/fortrantip/status/1472600871192125451) 10:13 AM · Dec 19, 2021 [count_pack.f90](./count_pack.f90)<br>
-[Loop variable equals the upper bound plus the stride after normal completion of a loop](https://twitter.com/fortrantip/status/1472598697489965061) 10:04 AM · Dec 19, 2021 [do_loop_index.f90](./do_loop_index.f90)<br>
 
-[New Fortran code should be written using free source form and stored in a file with the .f90 suffix.](https://twitter.com/fortrantip/status/1472183935044145157) 6:36 AM · Dec 18, 2021<br>
-[Fortran has allocation on assignment.](https://twitter.com/fortrantip/status/1472181598833549316) 6:26 AM · Dec 18, 2021 [alloc.f90](./alloc.f90)<br>
 
 ### Fortran resources
 [Fortran compilers and tutorials](https://twitter.com/fortrantip/status/1471897319671046147) 11:37 AM · Dec 17, 2021<br>
@@ -135,10 +128,12 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Intrinsic data types: integer, real, complex, logical, and character](https://twitter.com/fortrantip/status/1471890355561943054) 11:09 AM · Dec 17, 2021<br>
 [\** is the exponentiation operator.](https://twitter.com/fortrantip/status/1471903802185986050) 12:03 PM · Dec 17, 2021 [power.f90](./power.f90)<br>
 [Integer division truncates.](https://twitter.com/fortrantip/status/1471936756857643008) 2:14 PM · Dec 17, 2021<br>
+[New Fortran code should be written using free source form and stored in a file with the .f90 suffix.](https://twitter.com/fortrantip/status/1472183935044145157) 6:36 AM · Dec 18, 2021<br>
 
 ### Loops
 [DO-ENDDO loop](https://twitter.com/fortrantip/status/1471891644370796550) 11:14 AM · Dec 17, 2021 [loop.f90](./loop.f90)<br>
 [EXIT a loop](https://twitter.com/fortrantip/status/1471895490346291206) 11:30 AM · Dec 17, 2021 [sum_exit.f90](./sum_exit.f90)<br>
+[Loop variable equals the upper bound plus the stride after normal completion of a loop](https://twitter.com/fortrantip/status/1472598697489965061) 10:04 AM · Dec 19, 2021 [do_loop_index.f90](./do_loop_index.f90)<br>
 
 ### Conditionals
 [IF-ELSEIF-ENDIF block](https://twitter.com/fortrantip/status/1472202678054920196) 7:50 AM · Dec 18, 2021 [if.f90](./if.f90)<br>
@@ -150,10 +145,19 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Fortran array sections contain both endpoints](https://twitter.com/fortrantip/status/1471994100161388545) 6:01 PM · Dec 17, 2021 [sections.f90](./sections.f90)<br>
 [Fortran arrays can have any lower bound. The default is 1.](https://twitter.com/fortrantip/status/1471997763848183810) 6:16 PM · Dec 17, 2021 [bounds.f90](./bounds.f90)<br>
 [SUM and other array functions have an optional DIM(ension) argument.](https://twitter.com/fortrantip/status/1472018791525720069) 7:40 PM · Dec 17, 2021 [2d_array.f90](./2d_array.f90)<br>
+[PACK selects elements](https://twitter.com/fortrantip/status/1472600871192125451) 10:13 AM · Dec 19, 2021 [count_pack.f90](./count_pack.f90)<br>
 
 ### Character variables
 [An array of character variables has elements of the same LEN(gth).](https://twitter.com/fortrantip/status/1472207576133783564) 8:10 AM · Dec 18, 2021 [char.f90](./char.f90)<br>
 [Character variables are padded with spaces at the end if necessary.](https://twitter.com/fortrantip/status/1472209602074849285) 8:18 AM · Dec 18, 2021<br>
+
+### Allocation
+[Fortran has allocation on assignment.](https://twitter.com/fortrantip/status/1472181598833549316) 6:26 AM · Dec 18, 2021 [alloc.f90](./alloc.f90)<br>
+
+### Procedures
+[Functions should be PURE and have INTENT(IN) arguments](https://twitter.com/fortrantip/status/1472603894886932482) 10:25 AM · Dec 19, 2021 [func.f90](./func.f90)<br>
+[ELEMENTAL functions broadcast arguments](https://twitter.com/fortrantip/status/1472606914857078793) 10:37 AM · Dec 19, 2021 [elemental.f90](./elemental.f90)<br>
+[Put functions and subroutines in modules to ensure that interfaces are checked.](https://twitter.com/fortrantip/status/1472610403884670976) 10:50 AM · Dec 19, 2021 [module.f90](./module.f90)<br>
 
 ### Associate
 [Associate creates an alias for expressions or variables.](https://twitter.com/fortrantip/status/1472565511628197891) 7:52 AM · Dec 19, 2021 [assoc.f90](./assoc.f90)<br>
