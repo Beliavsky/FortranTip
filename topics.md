@@ -16,7 +16,6 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 
 ### Basics
 [Hello World](https://twitter.com/fortrantip/status/1471887565745799173) 10:58 AM · Dec 17, 2021 [hello_world.f90](./hello_world.f90)<br>
-[Intrinsic data types: integer, real, complex, logical, and character](https://twitter.com/fortrantip/status/1471890355561943054) 11:09 AM · Dec 17, 2021<br>
 [\** is the exponentiation operator.](https://twitter.com/fortrantip/status/1471903802185986050) 12:03 PM · Dec 17, 2021 [power.f90](./power.f90)<br>
 [Integer division truncates.](https://twitter.com/fortrantip/status/1471936756857643008) 2:14 PM · Dec 17, 2021<br>
 [Consider using a tolerance to compare floats](https://twitter.com/fortrantip/status/1475826650835214338) 7:51 AM · Dec 28, 2021 [compare_floats.f90](./compare_floats.f90)<br>
@@ -31,6 +30,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Turn compiler warnings into errors to force code defects to be fixed.](https://twitter.com/fortrantip/status/1485235396179079173) 7:58 AM · Jan 23, 2022 [warnings.f90](./warnings.f90)<br>
 
 ### Data types
+[Intrinsic data types: integer, real, complex, logical, and character](https://twitter.com/fortrantip/status/1471890355561943054) 11:09 AM · Dec 17, 2021<br>
 [Replace non-standard REAL\*8 declaration with REAL(KIND=REAL64)](https://twitter.com/fortrantip/status/1472772577600942083) 9:35 PM · Dec 19, 2021<br>
 [Declare floating point variables with KINDs](https://twitter.com/fortrantip/status/1472771842242920451) 9:32 PM · Dec 19, 2021 [kind.f90](./kind.f90)<br>
 [CMPLX should be used with a KIND argument](https://twitter.com/fortrantip/status/1474537984066301959) 6:30 PM · Dec 24, 2021 [cmplx.f90](./cmplx.f90)<br>
