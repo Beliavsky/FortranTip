@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Bounds of associate-name for whole array or array section selector](https://twitter.com/fortrantip/status/1500813206356430848) 7:38 AM · Mar 7, 2022 [associate_bounds.f90](./associate_bounds.f90)<br>
 [Tips by topic](https://twitter.com/fortrantip/status/1500472144878313473) 9:03 AM · Mar 6, 2022<br>
 [A variable ASSOCIATEd to an ALLOCATABLE variable is not ALLOCATABLE.](https://twitter.com/fortrantip/status/1500448694734364675) 7:30 AM · Mar 6, 2022 [associate_alloc.f90](./associate_alloc.f90)<br>
 [ASSOCIATE statement can set several independent variables.](https://twitter.com/fortrantip/status/1500087163668549636) 7:33 AM · Mar 5, 2022 [associate_many.f90](./associate_many.f90)<br>
