@@ -181,6 +181,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Bounds of associate-name for whole array or array section selector](https://twitter.com/fortrantip/status/1500813206356430848) 7:38 AM · Mar 7, 2022 [associate_bounds.f90](./associate_bounds.f90)<br>
 
 ### Pointers
+[Pointer can remap array shape and bounds.](https://twitter.com/fortrantip/status/1501169574997377025) 7:14 AM · Mar 8, 2022 [pointer_reshape.f90](./pointer_reshape.f90)<br>
 
 ### Generic programming
 [Unlimited polymorphic allocatable variable can be set to any type.](https://twitter.com/fortrantip/status/1496463950375960579) 7:36 AM · Feb 23, 2022 [unlimited_poly.f90](./unlimited_poly.f90)<br>
