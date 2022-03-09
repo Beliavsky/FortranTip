@@ -2,7 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
-[Pointer should be intialized to null() to avoid undefined association status.](https://twitter.com/fortrantip/status/1501547568307728385) 8:16 AM · Mar 9, 2022 [pointer_use.f90](./pointer_use.f90)<br>
+[Pointer should be initialized to null() to avoid undefined association status.](https://twitter.com/fortrantip/status/1501547568307728385) 8:16 AM · Mar 9, 2022 [pointer_use.f90](./pointer_use.f90)<br>
 [Pointer can remap array shape and bounds.](https://twitter.com/fortrantip/status/1501169574997377025) 7:14 AM · Mar 8, 2022 [pointer_reshape.f90](./pointer_reshape.f90)<br>
 [Bounds of associate-name for whole array or array section selector](https://twitter.com/fortrantip/status/1500813206356430848) 7:38 AM · Mar 7, 2022 [associate_bounds.f90](./associate_bounds.f90)<br>
 [Tips by topic](https://twitter.com/fortrantip/status/1500472144878313473) 9:03 AM · Mar 6, 2022<br>
