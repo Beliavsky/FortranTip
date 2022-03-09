@@ -182,6 +182,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 
 ### Pointers
 [Pointer can remap array shape and bounds.](https://twitter.com/fortrantip/status/1501169574997377025) 7:14 AM · Mar 8, 2022 [pointer_reshape.f90](./pointer_reshape.f90)<br>
+[Pointer should be initialized to null() to avoid undefined association status.](https://twitter.com/fortrantip/status/1501547568307728385) 8:16 AM · Mar 9, 2022 [pointer_use.f90](./pointer_use.f90)<br>
 
 ### Generic programming
 [Unlimited polymorphic allocatable variable can be set to any type.](https://twitter.com/fortrantip/status/1496463950375960579) 7:36 AM · Feb 23, 2022 [unlimited_poly.f90](./unlimited_poly.f90)<br>
