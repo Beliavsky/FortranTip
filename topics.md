@@ -51,6 +51,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [List-directed vs. explicitly formatted output](https://twitter.com/fortrantip/status/1474105626611662857) 1:52 PM · Dec 23, 2021<br>
 [Advance="no" specifier of WRITE](https://twitter.com/fortrantip/status/1477788560359141382) 6:47 PM · Jan 2, 2022 [advance_no.f90](./advance_no.f90)<br>
 [Use iostat and iomsg to handle READ errors](https://twitter.com/fortrantip/status/1482687630877892608) 7:14 AM · Jan 16, 2022 [iomsg.f90](./iomsg.f90) ; [data_file](./iomsg_data_file.txt)<br>
+[Connect INPUT_UNIT and OUTPUT_UNIT to files to redirect standard input and output.](https://twitter.com/fortrantip/status/1502277940066893835) 8:39 AM · Mar 11, 2022 [output_unit.f90](./output_unit.f90)<br>
 
 ### Loops
 [DO-ENDDO loop](https://twitter.com/fortrantip/status/1471891644370796550) 11:14 AM · Dec 17, 2021 [loop.f90](./loop.f90)<br>
