@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Connect INPUT_UNIT and OUTPUT_UNIT to files to redirect standard input and output.](https://twitter.com/fortrantip/status/1502277940066893835) 8:39 AM · Mar 11, 2022 [output_unit.f90](./output_unit.f90)<br>
 [Use ALLOCATABLE arrays or ASSOCIATE instead of POINTER when possible.](https://twitter.com/fortrantip/status/1501898993785319429) 7:33 AM · Mar 10, 2022<br>
 [Pointer should be initialized to null() to avoid undefined association status.](https://twitter.com/fortrantip/status/1501547568307728385) 8:16 AM · Mar 9, 2022 [pointer_use.f90](./pointer_use.f90)<br>
 [Pointer can remap array shape and bounds.](https://twitter.com/fortrantip/status/1501169574997377025) 7:14 AM · Mar 8, 2022 [pointer_reshape.f90](./pointer_reshape.f90)<br>
