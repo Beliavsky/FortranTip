@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Write to many files by creating file names with internal write.](https://twitter.com/fortrantip/status/1503015109354045442) 10:28 AM · Mar 13, 2022 [write_many_files.f90](./write_many_files.f90)<br>
 [Unit n is connected to fort.n by default for most compilers.](https://twitter.com/fortrantip/status/1502625494499536904) 7:40 AM · Mar 12, 2022 [implicitly_connected.f90](./implicitly_connected.f90)<br>
 [Connect INPUT_UNIT and OUTPUT_UNIT to files to redirect standard input and output.](https://twitter.com/fortrantip/status/1502277940066893835) 8:39 AM · Mar 11, 2022 [output_unit.f90](./output_unit.f90)<br>
 [Use ALLOCATABLE arrays or ASSOCIATE instead of POINTER when possible.](https://twitter.com/fortrantip/status/1501898993785319429) 7:33 AM · Mar 10, 2022<br>
