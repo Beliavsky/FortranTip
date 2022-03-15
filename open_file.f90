@@ -5,7 +5,7 @@ integer, parameter :: iu = 10
 integer :: ierr
 open (unit=iu,file=fname,action="write")
 ! compilers will typically overwrite temp.txt if it exists, 
-! but this is not mandated witH unspecified STATUS
+! but this is not mandated with unspecified STATUS
 write (iu,*) "a"
 close (iu)
 open (unit=iu,file=fname,action="write",status="replace")
