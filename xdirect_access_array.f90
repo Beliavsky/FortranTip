@@ -63,3 +63,31 @@ labels = [character (len=nlen) :: &
 print "(/,a35,1x,a9)", "task","time"
 print "(a35,1x,f9.6)",(trim(labels(i)),dt(i),i=1,ndt)
 end program direct_access
+! gfortran -O3 results on Windows:
+!  n, nreals =    10000000           2
+!  iol=           8
+!    7.01291561E-02  0.410597622       7.01291561E-02  0.410597622    
+!    7.01291561E-02  0.410597622       7.01291561E-02  0.410597622    
+!    7.01291561E-02  0.410597622       7.01291561E-02  0.410597622    
+! 
+!                                task      time
+!            write unformatted direct  1.156250
+!             read unformatted direct  0.000000
+!            write unformatted stream  0.031250
+!             read unformatted stream  0.015625
+!          write formatted sequential 14.250000
+!           read formatted sequential  8.015625
+! ifort -O3 Version 2021.5.0 Build 20211109_000000 results on Windows:
+!  n, nreals =    10000000           2
+!  iol=           2
+!   0.4931603      0.8502113      0.4931603      0.8502113    
+!   0.4931603      0.8502113      0.4931603      0.8502113    
+!   0.4931603      0.8502113      0.4931603      0.8502113    
+! 
+!                                task      time
+!            write unformatted direct 30.156250
+!             read unformatted direct  0.000000
+!            write unformatted stream  0.031250
+!             read unformatted stream  0.015625
+!          write formatted sequential 30.859375
+!           read formatted sequential  5.046875
