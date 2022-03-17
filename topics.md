@@ -57,6 +57,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Number of files open simultaneously is limited, so they should be closed when possible.](https://twitter.com/fortrantip/status/1503339726534852615) 7:58 AM · Mar 14, 2022 [open_units_limit.f90](./open_units_limit.f90)<br>
 [Use NEWUNIT in OPEN to get an unused unit number.](https://twitter.com/fortrantip/status/1503700530496946177) 7:51 AM · Mar 15, 2022 [newunit.f90](./newunit.f90)<br>
 [Use INQUIRE to get unit and file properties.](https://twitter.com/fortrantip/status/1504067234326528000) 8:09 AM · Mar 16, 2022 [inquire.f90](./inquire.f90)<br>
+[How to append to a file or delete it](https://twitter.com/fortrantip/status/1504422788517576704) 7:41 AM · Mar 17, 2022 [write_append.f90](./write_append.f90)<br>
 
 ### Loops
 [DO-ENDDO loop](https://twitter.com/fortrantip/status/1471891644370796550) 11:14 AM · Dec 17, 2021 [loop.f90](./loop.f90)<br>
