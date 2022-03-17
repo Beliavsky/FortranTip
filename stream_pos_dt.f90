@@ -45,3 +45,13 @@ write (iu,pos=pos_n) x(n)
 read (iu,pos=pos_n) xn ! read new nth value
 print fmt_g,"10*nth",xn
 end program stream_pos
+! sample gfortran output:
+! storage_size_i = 32
+! storage_size_ir = 32
+! storage_size_type = 96
+! file_storage_size = 8
+! position increment = 12
+! 1st 10 0.779 0.367 10 0.779 0.367
+! 2nd 20 0.220 0.590 20 0.220 0.590
+! nth 100000000 0.122 0.671 100000000 0.122 0.671
+! 10*nth 100000000 1.22 6.71
