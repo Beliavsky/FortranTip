@@ -21,7 +21,7 @@ open (unit=iu,file=unfmt_file,access="direct",recl=iol, &
       form="unformatted",action="read")
 ! read the last record without looping over previous records
 read (iu,rec=nrec) xlast 
-print fmt_g,xmat(nrec,:),xlast ! verify it was correctly
+print fmt_g,xmat(nrec,:),xlast ! verify it was read correctly
 end program direct_access
 ! sample output:
 ! record length iol = 8
