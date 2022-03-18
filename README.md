@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[DIRECT access file allows access to arbitrary record without looping over the previous records.](https://twitter.com/fortrantip/status/1504793375765155840) 8:14 AM · Mar 18, 2022 [direct_access.f90](./direct_access.f90)<br>
 [How to append to a file or delete it](https://twitter.com/fortrantip/status/1504422788517576704) 7:41 AM · Mar 17, 2022 [write_append.f90](./write_append.f90)<br>
 [Use INQUIRE to get unit and file properties.](https://twitter.com/fortrantip/status/1504067234326528000) 8:09 AM · Mar 16, 2022 [inquire.f90](./inquire.f90)<br>
 [Use NEWUNIT in OPEN to get an unused unit number.](https://twitter.com/fortrantip/status/1503700530496946177) 7:51 AM · Mar 15, 2022 [newunit.f90](./newunit.f90)<br>
