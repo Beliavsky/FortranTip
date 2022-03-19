@@ -60,6 +60,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [How to append to a file or delete it](https://twitter.com/fortrantip/status/1504422788517576704) 7:41 AM · Mar 17, 2022 [write_append.f90](./write_append.f90)<br>
 [DIRECT access file allows access to arbitrary record without looping over the previous records.](https://twitter.com/fortrantip/status/1504793375765155840) 8:14 AM · Mar 18, 2022 [direct_access.f90](./direct_access.f90)<br>
 [Specific array elements can read or written to unformatted stream file by specifying the POS.](https://twitter.com/fortrantip/status/1505150360851210241) 7:53 AM · Mar 19, 2022 [stream_pos_dt.f90](./stream_pos_dt.f90)<br>
+[Stream input/output article by Clive Page](https://twitter.com/fortrantip/status/1505153106228690946) 8:03 AM · Mar 19, 2022<br>
 
 ### Loops
 [DO-ENDDO loop](https://twitter.com/fortrantip/status/1471891644370796550) 11:14 AM · Dec 17, 2021 [loop.f90](./loop.f90)<br>
