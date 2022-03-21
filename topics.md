@@ -62,6 +62,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Specific array elements can read or written to unformatted stream file by specifying the POS.](https://twitter.com/fortrantip/status/1505150360851210241) 7:53 AM · Mar 19, 2022 [stream_pos_dt.f90](./stream_pos_dt.f90)<br>
 [Stream input/output article by Clive Page](https://twitter.com/fortrantip/status/1505153106228690946) 8:03 AM · Mar 19, 2022<br>
 [Slash / terminates a record.](https://twitter.com/fortrantip/status/1505555510262697987) 10:43 AM · Mar 20, 2022 [slash.f90](./slash.f90)<br>
+[Use REWIND and BACKSPACE to change file position.](https://twitter.com/fortrantip/status/1505877382716170245) 8:02 AM · Mar 21, 2022 [rewind.f90](./rewind.f90)<br>
 
 ### Loops
 [DO-ENDDO loop](https://twitter.com/fortrantip/status/1471891644370796550) 11:14 AM · Dec 17, 2021 [loop.f90](./loop.f90)<br>
