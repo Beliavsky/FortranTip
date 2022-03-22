@@ -2,7 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
-[EXIT <name> can be used to leave an outer loop.](https://twitter.com/fortrantip/status/1506235487782113282) 7:44 AM · Mar 22, 2022 [loop_label.f90](./loop_label.f90)<br>
+[EXIT can be used to leave a named outer loop.](https://twitter.com/fortrantip/status/1506235487782113282) 7:44 AM · Mar 22, 2022 [loop_label.f90](./loop_label.f90)<br>
 [Use REWIND and BACKSPACE to change file position.](https://twitter.com/fortrantip/status/1505877382716170245) 8:02 AM · Mar 21, 2022 [rewind.f90](./rewind.f90)<br>
 [Slash / terminates a record.](https://twitter.com/fortrantip/status/1505555510262697987) 10:43 AM · Mar 20, 2022 [slash.f90](./slash.f90)<br>
 [Stream input/output article by Clive Page](https://twitter.com/fortrantip/status/1505153106228690946) 8:03 AM · Mar 19, 2022<br>
