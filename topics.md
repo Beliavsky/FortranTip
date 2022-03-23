@@ -69,6 +69,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [EXIT a loop](https://twitter.com/fortrantip/status/1471895490346291206) 11:30 AM · Dec 17, 2021 [sum_exit.f90](./sum_exit.f90)<br>
 [Loop variable equals the upper bound plus the stride after normal completion of a loop](https://twitter.com/fortrantip/status/1472598697489965061) 10:04 AM · Dec 19, 2021 [do_loop_index.f90](./do_loop_index.f90)<br>
 [EXIT can be used to leave a named outer loop.](https://twitter.com/fortrantip/status/1506235487782113282) 7:44 AM · Mar 22, 2022 [loop_label.f90](./loop_label.f90)<br>
+[CYCLE skips the remaining statements in a loop.](https://twitter.com/fortrantip/status/1506603320361857026) 8:06 AM · Mar 23, 2022 [cycle.f90](./cycle.f90)<br>
 
 ### Conditionals
 [IF-ELSEIF-ENDIF block](https://twitter.com/fortrantip/status/1472202678054920196) 7:50 AM · Dec 18, 2021 [if.f90](./if.f90)<br>
