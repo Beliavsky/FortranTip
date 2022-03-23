@@ -9,12 +9,12 @@ integer          :: ipos(size(x,1))
 integer          :: i,j
 ipos = 0
 iloop: do i=1,size(x,1)
-   do j=1,size(x,2)
+   jloop: do j=1,size(x,2)
       if (x(i,j) > 0.0) then
          ipos(i) = j
-         cycle iloop
+         cycle iloop ! or write exit jloop
       end if
-   end do
+   end do jloop
 end do iloop
 end function pos_first_positive_each_row 
 end module m
