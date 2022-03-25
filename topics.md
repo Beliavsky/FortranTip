@@ -71,6 +71,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [EXIT can be used to leave a named outer loop.](https://twitter.com/fortrantip/status/1506235487782113282) 7:44 AM · Mar 22, 2022 [loop_label.f90](./loop_label.f90)<br>
 [CYCLE skips the remaining statements in a loop.](https://twitter.com/fortrantip/status/1506603320361857026) 8:06 AM · Mar 23, 2022 [cycle.f90](./cycle.f90)<br>
 [Changing a loop index within a loop is invalid.](https://twitter.com/fortrantip/status/1506976258411872268) 8:48 AM · Mar 24, 2022 [loop_index.f90](./loop_index.f90)<br>
+[Number of iterations in a loop is determined at the beginning.](https://twitter.com/fortrantip/status/1507323239151906819) 7:47 AM · Mar 25, 2022 [loop_bound.f90](./loop_bound.f90)<br>
 
 ### Conditionals
 [IF-ELSEIF-ENDIF block](https://twitter.com/fortrantip/status/1472202678054920196) 7:50 AM · Dec 18, 2021 [if.f90](./if.f90)<br>
