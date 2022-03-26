@@ -7,8 +7,8 @@ end do
 print "(a,i0)", "'do i=1,huge(i)-1' exits with i=", i
 do i=1,huge(i) ! nonstandard
    ! gfortran -Wall says Warning: DO loop at (1) is undefined as it overflows
-   ! without line below loop does not terminate with gfortran
    if (i == huge(i)) exit
+   ! without line above loop does not terminate with gfortran
 end do
 print"(a,i0)", "'do i=1,huge(i)' exits with i=", i
 end program loop
