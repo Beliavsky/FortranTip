@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[DO WHILE loop iterates as long as condition at beginning is met.](https://twitter.com/fortrantip/status/1508040660124848129) 7:18 AM · Mar 27, 2022 [do_while.f90](./do_while.f90)<br>
 [Invalid loop bounds were discussed at Fortran Discourse.](https://twitter.com/fortrantip/status/1507673746965946368) 7:00 AM · Mar 26, 2022<br>
 [Beware of a loop to huge(i), since huge(i)+1 is out of range.](https://twitter.com/fortrantip/status/1507669898486501381) 6:44 AM · Mar 26, 2022 [huge_loop.f90](./huge_loop.f90)<br>
 [Number of iterations in a loop is determined at the beginning.](https://twitter.com/fortrantip/status/1507323239151906819) 7:47 AM · Mar 25, 2022 [loop_bound.f90](./loop_bound.f90)<br>
