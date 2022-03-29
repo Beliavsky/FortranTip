@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Use an implied do loop with TRIM to print an array of character variables without trailing blanks.](https://twitter.com/fortrantip/status/1508769980313124870) [trim_loop.f90](./trim_loop.f90)<br>
 [print*,char(7) causes the program to beep.](https://twitter.com/fortrantip/status/1508401513445605379) 7:12 AM · Mar 28, 2022<br>
 [DO WHILE loop iterates as long as condition at beginning is met.](https://twitter.com/fortrantip/status/1508040660124848129) 7:18 AM · Mar 27, 2022 [do_while.f90](./do_while.f90)<br>
 [Invalid loop bounds were discussed at Fortran Discourse.](https://twitter.com/fortrantip/status/1507673746965946368) 7:00 AM · Mar 26, 2022<br>
