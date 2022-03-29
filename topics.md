@@ -123,7 +123,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Convert from strings to numbers and the reverse using internal READ and WRITE.](https://twitter.com/fortrantip/status/1491754652030885888) 7:43 AM · Feb 10, 2022 [internal_read_write.f90](./internal_read_write.f90)<br>
 [Internal write to character variable too small to hold output causes run-time error.](https://twitter.com/fortrantip/status/1492114908351283206) 7:34 AM · Feb 11, 2022 [write_char.f90](./write_char.f90)<br>
 [Character variables can be compared like numerical variables.](https://twitter.com/fortrantip/status/1492489511821004805) 8:23 AM · Feb 12, 2022 [compare_character.f90](./compare_character.f90)<br>
-[print*,char(7) causes the program to beep.] 7:12 AM · Mar 28, 2022<br>
+[print*,char(7) causes the program to beep.](https://twitter.com/fortrantip/status/1508401513445605379) 7:12 AM · Mar 28, 2022<br>
 [Use an implied do loop with TRIM to print an array of character variables without trailing blanks.](https://twitter.com/fortrantip/status/1508769980313124870) 7:36 AM · Mar 29, 2022 [trim_loop.f90](./trim_loop.f90)<br>
 
 ### Allocation
