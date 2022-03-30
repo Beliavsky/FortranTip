@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Error in READ statement causes all variables to become undefined.](https://twitter.com/fortrantip/status/1509144120404676611) 8:22 AM · Mar 30, 2022 [read_err.f90](./read_err.f90)<br>
 [Use an implied do loop with TRIM to print an array of character variables without trailing blanks.](https://twitter.com/fortrantip/status/1508769980313124870) 7:36 AM · Mar 29, 2022 [trim_loop.f90](./trim_loop.f90)<br>
 [print*,char(7) causes the program to beep.](https://twitter.com/fortrantip/status/1508401513445605379) 7:12 AM · Mar 28, 2022<br>
 [DO WHILE loop iterates as long as condition at beginning is met.](https://twitter.com/fortrantip/status/1508040660124848129) 7:18 AM · Mar 27, 2022 [do_while.f90](./do_while.f90)<br>
