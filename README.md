@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[MOOC on "Defensive programming and debugging"](https://twitter.com/fortrantip/status/1509557710810980358) 11:46 AM · Mar 31, 2022<br>
 [Use the "(a)" format to read a line of a file into a string.](https://twitter.com/fortrantip/status/1509493654678876166) 7:31 AM · Mar 31, 2022 [read_line.f90](./read_line.f90)<br>
 [Error in READ statement causes all variables to become undefined.](https://twitter.com/fortrantip/status/1509144120404676611) 8:22 AM · Mar 30, 2022 [read_err.f90](./read_err.f90)<br>
 [Use an implied do loop with TRIM to print an array of character variables without trailing blanks.](https://twitter.com/fortrantip/status/1508769980313124870) 7:36 AM · Mar 29, 2022 [trim_loop.f90](./trim_loop.f90)<br>
