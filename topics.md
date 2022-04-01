@@ -14,6 +14,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Mistakes in Fortran 90 Programs That Might Surprise You, by Szymanski](https://twitter.com/fortrantip/status/1488844789575569408) 7:00 AM · Feb 2, 2022<br>
 [Modern Fortran Reference Card and Quick Reference/Cheat Sheet.](https://twitter.com/fortrantip/status/1493920435997659145) 7:09 AM · Feb 16, 2022<br>
 [Five free C C++ Fortran compiler families](https://twitter.com/fortrantip/status/1498291406556876806) 8:38 AM · Feb 28, 2022<br>
+[MOOC on "Defensive programming and debugging"](https://twitter.com/fortrantip/status/1509557710810980358) 11:46 AM · Mar 31, 2022<br>
 
 ### Basics
 [Hello World](https://twitter.com/fortrantip/status/1471887565745799173) 10:58 AM · Dec 17, 2021 [hello_world.f90](./hello_world.f90)<br>
