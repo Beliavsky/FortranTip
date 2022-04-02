@@ -2,7 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
-[Use a implied do loop with a dummy variable to skip fields when reading a file.](https://twitter.com/fortrantip/status/1510212760201830401) 7:09 AM · Apr 2, 2022 [skip_columns.f90](./skip_columns.f90)<br>
+[Use an implied do loop with a dummy variable to skip fields when reading a file.](https://twitter.com/fortrantip/status/1510212760201830401) 7:09 AM · Apr 2, 2022 [skip_columns.f90](./skip_columns.f90)<br>
 [List-directed READ will use several lines if necessary.](https://twitter.com/fortrantip/status/1509858203227545602) 7:40 AM · Apr 1, 2022 [list_directed.f90](./list_directed.f90)<br>
 [MOOC on "Defensive programming and debugging"](https://twitter.com/fortrantip/status/1509557710810980358) 11:46 AM · Mar 31, 2022<br>
 [Use the "(a)" format to read a line of a file into a string.](https://twitter.com/fortrantip/status/1509493654678876166) 7:31 AM · Mar 31, 2022 [read_line.f90](./read_line.f90)<br>
