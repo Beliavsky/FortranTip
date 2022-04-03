@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Because recursive I/O is prohibited, a function should use ERROR STOP msg instead of PRINT statements for error messages.](https://twitter.com/fortrantip/status/1510585396467535879) 7:49 AM · Apr 3, 2022 [recursive_io.f90](./recursive_io.f90)<br>
 [Use an implied do loop with a dummy variable to skip fields when reading a file.](https://twitter.com/fortrantip/status/1510212760201830401) 7:09 AM · Apr 2, 2022 [skip_columns.f90](./skip_columns.f90)<br>
 [List-directed READ will use several lines if necessary.](https://twitter.com/fortrantip/status/1509858203227545602) 7:40 AM · Apr 1, 2022 [list_directed.f90](./list_directed.f90)<br>
 [MOOC on "Defensive programming and debugging"](https://twitter.com/fortrantip/status/1509557710810980358) 11:46 AM · Mar 31, 2022<br>
