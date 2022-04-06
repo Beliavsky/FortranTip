@@ -181,6 +181,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Module entities are PUBLIC by default.](https://twitter.com/fortrantip/status/1481970740475932676) 7:45 AM · Jan 14, 2022 [private.f90](./private.f90)<br>
 [An unqualified USE foo statement imports public entities defined in foo and what foo imported.](https://twitter.com/fortrantip/status/1482328990798987266) 7:29 AM · Jan 15, 2022 [imports.f90](./imports.f90)<br>
 [PROTECTED module variables cannot be changed outside the module.](https://twitter.com/fortrantip/status/1484136749924245509) 7:12 AM · Jan 20, 2022 [protected.f90](./protected.f90)<br>
+[Place IMPLICIT NONE before CONTAINS in a module.](https://twitter.com/fortrantip/status/1511683238212816903) 8:32 AM · Apr 6, 2022<br>
 
 ### Derived types
 [Derived type definition, initialization, and operator overloading](https://twitter.com/fortrantip/status/1474169072665440259) 6:04 PM · Dec 23, 2021 [date.f90](./date.f90)<br>
