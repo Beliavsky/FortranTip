@@ -138,6 +138,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Fortran has allocation on assignment.](https://twitter.com/fortrantip/status/1472181598833549316) 6:26 AM · Dec 18, 2021 [alloc.f90](./alloc.f90)<br>
 [If allocation errors must be handled, use ALLOCATABLE rather than automatic arrays in procedures](https://twitter.com/fortrantip/status/1473636468405030913) 6:48 AM · Dec 22, 2021 [automatic.f90](./automatic.f90)<br>
 [ALLOCATE with SOURCE or MOLD to set values or SHAPE.](https://twitter.com/fortrantip/status/1512018397734838274) 6:44 AM · Apr 7, 2022 [alloc_source_mold.f90](./alloc_source_mold.f90)<br>
+[ALLOCATE has an optional ERRMSG specifier.](https://twitter.com/fortrantip/status/1512395017473736704) 7:40 AM · Apr 8, 2022 [alloc_errmsg.f90](./alloc_errmsg.f90)<br>
 
 ### Procedures
 [Functions should be PURE and have INTENT(IN) arguments](https://twitter.com/fortrantip/status/1472603894886932482) 10:25 AM · Dec 19, 2021 [func.f90](./func.f90)<br>
