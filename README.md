@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[ALLOCATE has an optional ERRMSG specifier.](https://twitter.com/fortrantip/status/1512395017473736704) 7:40 AM · Apr 8, 2022 [alloc_errmsg.f90](./alloc_errmsg.f90)<br>
 [ASSOCIATE to an array-valued expression allocates an array.](https://twitter.com/fortrantip/status/1512020145853673478) 6:51 AM · Apr 7, 2022<br>
 [ALLOCATE with SOURCE or MOLD to set values or SHAPE.](https://twitter.com/fortrantip/status/1512018397734838274) 6:44 AM · Apr 7, 2022 [alloc_source_mold.f90](./alloc_source_mold.f90)<br>
 [Place IMPLICIT NONE before CONTAINS in a module.](https://twitter.com/fortrantip/status/1511683238212816903) 8:32 AM · Apr 6, 2022<br>
