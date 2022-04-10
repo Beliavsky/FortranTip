@@ -141,6 +141,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [ALLOCATE has an optional ERRMSG specifier.](https://twitter.com/fortrantip/status/1512395017473736704) 7:40 AM · Apr 8, 2022 [alloc_errmsg.f90](./alloc_errmsg.f90)<br>
 [If unsure, test whether a variable is ALLOCATED before using DEALLOCATE.](https://twitter.com/fortrantip/status/1512757635291963395) 7:41 AM · Apr 9, 2022<br>
 [Use MOVE_ALLOC to resize an array.](https://twitter.com/fortrantip/status/1513111554107006979) 7:08 AM · Apr 10, 2022 [move_alloc.f90](./move_alloc.f90)<br>
+[MOVE_ALLOC may be faster than RESHAPE or allocation on asignment to resize an array.](https://twitter.com/fortrantip/status/1513125862916382720) 8:04 AM · Apr 10, 2022 [move_alloc_bench.f90](./move_alloc_bench.f90)<br>
 
 ### Procedures
 [Functions should be PURE and have INTENT(IN) arguments](https://twitter.com/fortrantip/status/1472603894886932482) 10:25 AM · Dec 19, 2021 [func.f90](./func.f90)<br>
