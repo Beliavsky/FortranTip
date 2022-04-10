@@ -140,6 +140,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [ALLOCATE with SOURCE or MOLD to set values or SHAPE.](https://twitter.com/fortrantip/status/1512018397734838274) 6:44 AM · Apr 7, 2022 [alloc_source_mold.f90](./alloc_source_mold.f90)<br>
 [ALLOCATE has an optional ERRMSG specifier.](https://twitter.com/fortrantip/status/1512395017473736704) 7:40 AM · Apr 8, 2022 [alloc_errmsg.f90](./alloc_errmsg.f90)<br>
 [If unsure, test whether a variable is ALLOCATED before using DEALLOCATE.](https://twitter.com/fortrantip/status/1512757635291963395) 7:41 AM · Apr 9, 2022<br>
+[Use MOVE_ALLOC to resize an array.](https://twitter.com/fortrantip/status/1513111554107006979) 7:08 AM · Apr 10, 2022 [move_alloc.f90](./move_alloc.f90)<br>
 
 ### Procedures
 [Functions should be PURE and have INTENT(IN) arguments](https://twitter.com/fortrantip/status/1472603894886932482) 10:25 AM · Dec 19, 2021 [func.f90](./func.f90)<br>
