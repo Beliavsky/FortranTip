@@ -197,6 +197,9 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [A derived type can have PRIVATE components.](https://twitter.com/fortrantip/status/1495372934537428997) 7:21 AM · Feb 20, 2022 [dt_private.f90](./dt_private.f90)<br>
 [Deallocating a derived type deallocates its allocatable components.](https://twitter.com/fortrantip/status/1513501493382496259) 8:57 AM · Apr 11, 2022 [alloc_dt.f90](./alloc_dt.f90)<br>
 
+### Parameterized derived types
+[Links to tutorials on parameterized derived types.](https://twitter.com/fortrantip/status/1513863460706308096) 8:55 AM · Apr 12, 2022<br>
+
 ### Environment variables
 [Execute_command_line() to pass a command to the shell.](https://twitter.com/fortrantip/status/1489212898777964545) 7:23 AM · Feb 3, 2022 [execute.f90](./execute.f90)<br>
 [Execute_command_line() can call gnuplot to display a plot during a run.](https://twitter.com/fortrantip/status/1489580579653918729) 7:44 AM · Feb 4, 2022<br>
