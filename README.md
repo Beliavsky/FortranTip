@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Links to tutorials on parameterized derived types.](https://twitter.com/fortrantip/status/1513863460706308096) 8:55 AM · Apr 12, 2022<br>
 [Deallocating a derived type deallocates its allocatable components.](https://twitter.com/fortrantip/status/1513501493382496259) 8:57 AM · Apr 11, 2022 [alloc_dt.f90](./alloc_dt.f90)<br>
 [MOVE_ALLOC may be faster than RESHAPE or allocation on asignment to resize an array.](https://twitter.com/fortrantip/status/1513125862916382720) 8:04 AM · Apr 10, 2022 [move_alloc_bench.f90](./move_alloc_bench.f90)<br>
 [Use MOVE_ALLOC to resize an array.](https://twitter.com/fortrantip/status/1513111554107006979) 7:08 AM · Apr 10, 2022 [move_alloc.f90](./move_alloc.f90)<br>
