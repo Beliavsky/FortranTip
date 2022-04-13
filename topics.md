@@ -198,7 +198,8 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Deallocating a derived type deallocates its allocatable components.](https://twitter.com/fortrantip/status/1513501493382496259) 8:57 AM · Apr 11, 2022 [alloc_dt.f90](./alloc_dt.f90)<br>
 
 ### Parameterized derived types
-[Links to tutorials on parameterized derived types.](https://twitter.com/fortrantip/status/1513863460706308096) 8:55 AM · Apr 12, 2022<br>
+[Links to tutorials on parameterized derived types (PDT).](https://twitter.com/fortrantip/status/1513863460706308096) 8:55 AM · Apr 12, 2022<br>
+[PDT can have array dimension, KIND, and character LEN parameters.](https://twitter.com/fortrantip/status/1514220328846831625) 8:33 AM · Apr 13, 2022 [pdt_matrix.f90](./pdt_matrix.f90)<br>
 
 ### Environment variables
 [Execute_command_line() to pass a command to the shell.](https://twitter.com/fortrantip/status/1489212898777964545) 7:23 AM · Feb 3, 2022 [execute.f90](./execute.f90)<br>
