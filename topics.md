@@ -71,6 +71,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Because recursive I/O is prohibited, a function should use ERROR STOP msg instead of PRINT statements for error messages.](https://twitter.com/fortrantip/status/1510585396467535879) 7:49 AM · Apr 3, 2022 [recursive_io.f90](./recursive_io.f90)<br>
 [Read a file into a string with unformatted stream.](https://twitter.com/fortrantip/status/1510940360582782976) 7:20 AM · Apr 4, 2022 [file_to_string.f90](./file_to_string.f90)<br>
 [Scratch files are unnamed temporary files for I/O.](https://twitter.com/fortrantip/status/1511318331659325445) 8:22 AM · Apr 5, 2022 [scratch.f90](./scratch.f90)<br>
+[Serialize a derived type using unformatted stream I/O.](https://twitter.com/fortrantip/status/1514587088393494528) 8:51 AM · Apr 14, 2022 [dt_stream.f90](./dt_stream.f90)<br>
 
 ### Loops
 [DO-ENDDO loop](https://twitter.com/fortrantip/status/1471891644370796550) 11:14 AM · Dec 17, 2021 [loop.f90](./loop.f90)<br>
