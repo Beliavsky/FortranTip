@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Serialize a derived type using unformatted stream I/O.](https://twitter.com/fortrantip/status/1514587088393494528) 8:51 AM · Apr 14, 2022 [dt_stream.f90](./dt_stream.f90)<br>
 [PDT can have fixed parameters at compile time or be ALLOCATABLE.](https://twitter.com/fortrantip/status/1514220538071244804) 8:34 AM · Apr 13, 2022<br>
 [PDT can have array dimension, KIND, and character LEN parameters.](https://twitter.com/fortrantip/status/1514220328846831625) 8:33 AM · Apr 13, 2022 [pdt_matrix.f90](./pdt_matrix.f90)<br>
 [Links to tutorials on parameterized derived types (PDT).](https://twitter.com/fortrantip/status/1513863460706308096) 8:55 AM · Apr 12, 2022<br>
