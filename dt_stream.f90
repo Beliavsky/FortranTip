@@ -1,4 +1,4 @@
-module m ! GitHub FortranTip dt_stream.f90 
+module m ! GitHub FortranTip dt_stream.f90
 ! pdt_stream.f90 at GitHub uses parameterized derived types 
 implicit none
 integer, parameter :: nlen = 10
