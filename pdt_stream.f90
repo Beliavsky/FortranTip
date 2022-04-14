@@ -1,4 +1,4 @@
-module m ! parameterized derived type analog of dt_stream.f90
+module m ! parameterized derived type analog of dt_stream.f90 
 implicit none
 integer, parameter :: nlen = 10
 type :: data_frame(n1,n2)
