@@ -14,6 +14,7 @@ print fmt,t(1:2) ! 2 4 6 2 4 6
 print fmt,t(1:2)%d ! 6 6
 print fmt,t ! 2 4 6 2 4 6 2 4 6
 print fmt,t%c(1) ! 2 2 2
+print fmt,t(1)%c(1:2)
 ! print fmt,t%c ! invalid: gfortran complains about
 ! two or more part references with nonzero rank
 end program main
