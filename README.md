@@ -2,7 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
-[Derived type array sections are allowed before or after the component selector, but not in both places.](https://twitter.com/fortrantip/status/1514939755892510727) 8:12 AM · Apr 15, 2022 [derived_type_section.f90](./derived_type_section.f90)<br>    
+[Derived type array sections are allowed before or after the component selector, but not in both places.](https://twitter.com/fortrantip/status/1514939755892510727) 8:12 AM · Apr 15, 2022 [derived_type_section.f90](./derived_type_section.f90)<br>
 [Serialize a derived type using unformatted stream I/O.](https://twitter.com/fortrantip/status/1514587088393494528) 8:51 AM · Apr 14, 2022 [dt_stream.f90](./dt_stream.f90)<br>
 [PDT can have fixed parameters at compile time or be ALLOCATABLE.](https://twitter.com/fortrantip/status/1514220538071244804) 8:34 AM · Apr 13, 2022<br>
 [PDT can have array dimension, KIND, and character LEN parameters.](https://twitter.com/fortrantip/status/1514220328846831625) 8:33 AM · Apr 13, 2022 [pdt_matrix.f90](./pdt_matrix.f90)<br>
