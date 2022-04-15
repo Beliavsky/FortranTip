@@ -197,6 +197,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [A derived type component can have a default value.](https://twitter.com/fortrantip/status/1495001410894811139) 6:44 AM · Feb 19, 2022 [type_constructor_optional.f90](./type_constructor_optional.f90)<br>
 [A derived type can have PRIVATE components.](https://twitter.com/fortrantip/status/1495372934537428997) 7:21 AM · Feb 20, 2022 [dt_private.f90](./dt_private.f90)<br>
 [Deallocating a derived type deallocates its allocatable components.](https://twitter.com/fortrantip/status/1513501493382496259) 8:57 AM · Apr 11, 2022 [alloc_dt.f90](./alloc_dt.f90)<br>
+[Derived type array sections are allowed before or after the % component selector, but not in both places.](https://twitter.com/fortrantip/status/1514939755892510727) 8:12 AM · Apr 15, 2022 [derived_type_section.f90](./derived_type_section.f90)<br>
 
 ### Parameterized derived types
 [Links to tutorials on parameterized derived types (PDT).](https://twitter.com/fortrantip/status/1513863460706308096) 8:55 AM · Apr 12, 2022<br>
