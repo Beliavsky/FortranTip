@@ -25,19 +25,3 @@ end program open_file
 !  file temp.txt already connected
 ! At line 21 of file open_file.f90 (unit = 10)
 ! Fortran runtime error: Cannot open file 'temp.txt': File exists
-
-
-
-
-
-
-
-
-
-
-! NEW the file must not exist; it will be created
-! UNKNOWN the file has a processor-dependent status (default)
-! REPLACE if the file does not exist, it is file is created and given
-! a status of OLD; if the file does exist, it is deleted, a
-! new file is created with the same name, and the file
-! is given a status of OLD
