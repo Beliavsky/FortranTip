@@ -44,6 +44,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [KIND numbers of types are not portable across compilers and should not be used directly.](https://twitter.com/fortrantip/status/1478526602136981511) 7:39 PM · Jan 4, 2022<br>
 [Use d0 or \_kind to make a constant double precision.](https://twitter.com/fortrantip/status/1478713534850736129) 8:02 AM · Jan 5, 2022 [precision.f90](./precision.f90)<br>
 [storage_size(A) returns the storage size of argument A in bits.](https://twitter.com/fortrantip/status/1495738404356689926) 7:33 AM · Feb 21, 2022 [storage_size.f90](./storage_size.f90)<br>
+[TRANSFER can be used to store one type in another type.](https://twitter.com/fortrantip/status/1516389389189984265) 8:12 AM · Apr 19, 2022 [transfer.f90](./transfer.f90)<br>
 
 ### Input and Output
 [Reading user input](https://twitter.com/fortrantip/status/1472941850218700805) 8:47 AM · Dec 20, 2021 [read_sum.f90](./read_sum.f90)<br>
