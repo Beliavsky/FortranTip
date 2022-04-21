@@ -28,6 +28,10 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [ERROR STOP vs. STOP.](https://twitter.com/fortrantip/status/1497181532146089985) 7:07 AM · Feb 25, 2022 [error_stop.f90](./error_stop.f90)<br>
 [BLOCK construct allows declarations after executable statements.](https://twitter.com/fortrantip/status/1498646417778548736) 8:08 AM · Mar 1, 2022 [block.f90](./block.f90)<br>
 
+### Compiling
+[Compilation can fail if there is no main program or if a USEd module has not been compiled.](https://twitter.com/fortrantip/status/1517106458281844736) 7:42 AM · Apr 21, 2022<br>
+[Create an executable in one step by compiling all source files or by compiling source files with -c and linking the object files.](https://twitter.com/fortrantip/status/1517106070614941697) 7:40 AM · Apr 21, 2022<br>
+
 ### Style
 [New Fortran code should be written using free source form and stored in a file with the .f90 suffix.](https://twitter.com/fortrantip/status/1472183935044145157) 6:36 AM · Dec 18, 2021<br>
 [Turn compiler warnings into errors to force code defects to be fixed.](https://twitter.com/fortrantip/status/1485235396179079173) 7:58 AM · Jan 23, 2022 [warnings.f90](./warnings.f90)<br>
