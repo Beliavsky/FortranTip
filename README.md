@@ -3,6 +3,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
 [Fortran-lang has a section on Building Programs, and F18 has a compiler options comparison.](https://twitter.com/fortrantip/status/1517857866757124099) 9:28 AM · Apr 23, 2022<br>
+[Fortran Package Manger simplifies building programs.](https://twitter.com/fortrantip/status/1517462836062081024) 7:18 AM · Apr 22, 2022<br>
 [Compilation can fail if there is no main program or if a USEd module has not been compiled.](https://twitter.com/fortrantip/status/1517106458281844736) 7:42 AM · Apr 21, 2022<br>
 [Create an executable in one step by compiling all source files or by compiling source files with -c and linking the object files.](https://twitter.com/fortrantip/status/1517106070614941697) 7:40 AM · Apr 21, 2022<br>
 [NOT, IAND, IOR, and IEOR perform logical operations on the bit representations of integers.](https://twitter.com/fortrantip/status/1516749872019431432) 8:05 AM · Apr 20, 2022 [bit_func.f90](./bit_func.f90)<br>
