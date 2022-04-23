@@ -31,6 +31,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 ### Compiling
 [Compilation can fail if there is no main program or if a USEd module has not been compiled.](https://twitter.com/fortrantip/status/1517106458281844736) 7:42 AM · Apr 21, 2022<br>
 [Create an executable in one step by compiling all source files or by compiling source files with -c and linking the object files.](https://twitter.com/fortrantip/status/1517106070614941697) 7:40 AM · Apr 21, 2022<br>
+[Fortran-lang has a section on Building Programs, and F18 has a compiler options comparison.](https://twitter.com/fortrantip/status/1517857866757124099) 9:28 AM · Apr 23, 2022<br>
 
 ### Style
 [New Fortran code should be written using free source form and stored in a file with the .f90 suffix.](https://twitter.com/fortrantip/status/1472183935044145157) 6:36 AM · Dec 18, 2021<br>
