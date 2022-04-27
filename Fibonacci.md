@@ -1,6 +1,6 @@
 ### Gfortran compilation stages
 The abstract syntax tree of two codes can be compared to verify that their differences are only cosmetic (such as free vs. fixed source form).
-The intermediate and assembly codes of different source codes and optimization levels can be compared to understand speed differences. 
+The intermediate and assembly codes of different source codes and optimization levels can be compared to understand speed differences.
 
 #### Fortran source fib.f90
 ``` .f90
