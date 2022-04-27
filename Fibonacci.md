@@ -20,4 +20,5 @@ program test_fib
 use fib_mod, only: fib
 implicit none
 print*,"fib(6) =",fib(6) ! 8
-end program test_fib```
+end program test_fib
+```
