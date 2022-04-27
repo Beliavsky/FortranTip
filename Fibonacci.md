@@ -1,8 +1,8 @@
-This page shows various stages of processing of a Fortran code by gfortran on Windows. The abstract syntax
-tree of two codes can be compared to verify that their differences are only cosmetic (such as free vs. fixed source form).
-The intermediate and assembly codes of different optimization levels can be compared.
+### Gfortran compilation stages
+The abstract syntax tree of two codes can be compared to verify that their differences are only cosmetic (such as free vs. fixed source form).
+The intermediate and assembly codes of different source codes and optimization levels can be compared to understand speed differences.
 
-Fortran source fib.f90
+#### Fortran source fib.f90
 ``` .f90
 module fib_mod
 implicit none
@@ -27,7 +27,7 @@ implicit none
 print*,"fib(6) =",fib(6) ! 8
 end program test_fib
 ```
-Abstract Syntax Tree from `gfortran -fdump-fortran-original -fdump-tree-original fib.f90`
+#### Abstract Syntax Tree from `gfortran -fdump-fortran-original -fdump-tree-original fib.f90`
 ``` .f90
 Namespace: A-Z: (UNKNOWN 0)
 procedure name = fib_mod
@@ -98,7 +98,7 @@ procedure name = test_fib
   TRANSFER fib[[((6))]]
   DT_END
  ```
- C-like intermediate code from `gfortran -fdump-fortran-original -fdump-tree-original fib.f90`
+ #### C-like intermediate code from `gfortran -fdump-fortran-original -fdump-tree-original fib.f90`
  ``` .c
  __attribute__((fn spec (". r ")))
 integer(kind=4) fib (integer(kind=4) & restrict i)
@@ -205,7 +205,7 @@ integer(kind=4) main (integer(kind=4) argc, character(kind=1) * * argv)
   return 0;
 }
 ```
-Assembly code produced by `gfortran -S -fverbose-asm fib.f90` on Windows, which shows the assembly corresponding to each source line.
+#### Assembly code produced by `gfortran -S -fverbose-asm fib.f90` on Windows, which shows the assembly corresponding to each source line.
 ```	.file	"fib.f90"
  # GNU Fortran2008 (GCC) version 12.0.1 20220213 (experimental) (x86_64-w64-mingw32)
  #	compiled by GNU C version 12.0.0 20220116 (experimental), GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version none
