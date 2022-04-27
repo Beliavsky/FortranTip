@@ -205,7 +205,7 @@ integer(kind=4) main (integer(kind=4) argc, character(kind=1) * * argv)
   return 0;
 }
 ```
-Assembly code produced by `gfortran -S -fverbose-asm fib.f90` on Windows
+Assembly code produced by `gfortran -S -fverbose-asm fib.f90` on Windows, which shows the assembly corresponding to each source line.
 ```	.file	"fib.f90"
  # GNU Fortran2008 (GCC) version 12.0.1 20220213 (experimental) (x86_64-w64-mingw32)
  #	compiled by GNU C version 12.0.0 20220116 (experimental), GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version none
