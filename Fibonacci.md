@@ -1,3 +1,7 @@
+This page shows various stages of processing of a Fortran code by gfortran on Windows. The abstract syntax
+tree of two codes can be compared to verify that their differences are only cosmetic (such as free vs. fixed source form).
+The intermediate and assembly codes of different optimization levels can be compared.
+
 Fortran source fib.f90
 ``` .f90
 module fib_mod
