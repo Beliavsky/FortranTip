@@ -1,4 +1,4 @@
-```
+``` .f90
 module fib_mod
 implicit none
 contains
