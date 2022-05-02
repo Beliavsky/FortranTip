@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Use compiler options to catch the use of uninitialized variables.](https://twitter.com/fortrantip/status/1521100997195669504) 8:15 AM · May 2, 2022<br>
 [B, O, Z edit descriptors can be used to print integers as binary, octal, or hexadecimal.](https://twitter.com/fortrantip/status/1520746070829158400) 8:44 AM · May 1, 2022 [boz.f90](./boz.f90)<br>
 [Use IANY instead of nested IOR, IALL instead of nested IAND.](https://twitter.com/fortrantip/status/1520241782038007808) 11:21 PM · Apr 29, 2022 [iany.f90](./iany.f90)<br>
 [When is the -ffast-math option safe?](https://fortran-lang.discourse.group/t/can-one-design-coding-rules-to-follow-so-that-ffast-math-is-safe/2762) 7:14 AM · Apr 29, 2022<br>
