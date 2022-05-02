@@ -37,6 +37,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Compilers may accept extensions by default but have options to flag non-standard code.](https://twitter.com/fortrantip/status/1518923088599162880) 8:00 AM · Apr 26, 2022<br>
 [Use ifort -fast or gfortran -O3 -march=native for speed.](https://twitter.com/fortrantip/status/1519634828265762816) 7:09 AM · Apr 28, 2022<br>
 [When is the -ffast-math option safe?](https://fortran-lang.discourse.group/t/can-one-design-coding-rules-to-follow-so-that-ffast-math-is-safe/2762) 7:14 AM · Apr 29, 2022<br>
+[Use compiler options to catch the use of uninitialized variables.](https://twitter.com/fortrantip/status/1521100997195669504) 8:15 AM · May 2, 2022<br>
 
 ### Style
 [New Fortran code should be written using free source form and stored in a file with the .f90 suffix.](https://twitter.com/fortrantip/status/1472183935044145157) 6:36 AM · Dec 18, 2021<br>
