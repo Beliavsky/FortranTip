@@ -252,5 +252,8 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Unlimited polymorphic pointer can point to any type.](https://twitter.com/fortrantip/status/1496470666576642048) 8:03 AM · Feb 23, 2022 [unlimited_pointer.f90](./unlimited_pointer.f90)<br>
 [Assumed type arguments have no declared type.](https://twitter.com/fortrantip/status/1496825853551992843) 7:34 AM · Feb 24, 2022 [assumed_type.f90](./assumed_type.f90)<br>
 
+### Interoperability with C
+[Fortran 2003 standardized the interoperation of Fortran and C.](https://twitter.com/fortrantip/status/1521476255165698051) 9:06 AM · May 3, 2022<br>
+
 
 
