@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[C library functions can be called if an INTERFACE is provided.](https://twitter.com/fortrantip/status/1521921486302363656) 2:35 PM · May 4, 2022 [atoi_vs_read.f90](./atoi_vs_read.f90)<br>
 [Fortran 2003 standardized the interoperation of Fortran and C.](https://twitter.com/fortrantip/status/1521476255165698051) 9:06 AM · May 3, 2022<br>
 [Use compiler options to catch the use of uninitialized variables.](https://twitter.com/fortrantip/status/1521100997195669504) 8:15 AM · May 2, 2022<br>
 [B, O, Z edit descriptors can be used to print integers as binary, octal, or hexadecimal.](https://twitter.com/fortrantip/status/1520746070829158400) 8:44 AM · May 1, 2022 [boz.f90](./boz.f90)<br>
