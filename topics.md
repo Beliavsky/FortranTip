@@ -255,6 +255,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 ### Interoperability with C
 [Fortran 2003 standardized the interoperation of Fortran and C.](https://twitter.com/fortrantip/status/1521476255165698051) 9:06 AM · May 3, 2022<br>
 [C library functions can be called if an INTERFACE is provided.](https://twitter.com/fortrantip/status/1521921486302363656) 2:35 PM · May 4, 2022 [atoi_vs_read.f90](./atoi_vs_read.f90)<br>
+[Non-pointer arguments of C functions have the VALUE attribute in the Fortran interface.](https://twitter.com/fortrantip/status/1522208519096836096) 9:36 AM · May 5, 2022 [xsum_vec.f90](./xsum_vec.f90) [sum_vec.c](./sum_vec.c)<br>
 
 
 
