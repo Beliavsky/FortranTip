@@ -257,6 +257,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [C library functions can be called if an INTERFACE is provided.](https://twitter.com/fortrantip/status/1521921486302363656) 2:35 PM · May 4, 2022 [atoi_vs_read.f90](./atoi_vs_read.f90)<br>
 [Non-pointer arguments of C functions should have the VALUE attribute in the Fortran interface.](https://twitter.com/fortrantip/status/1522208519096836096) 9:36 AM · May 5, 2022 [xsum_vec.f90](./xsum_vec.f90) [sum_vec.c](./sum_vec.c)<br>
 [A simple derived type with the BIND(C) attribute interoperates with a C struct.](https://twitter.com/fortrantip/status/1522553330282778625) 8:26 AM · May 6, 2022<br>
+[The Fortran name can differ from the C name of a function if the NAME attribute appears in BIND.](https://twitter.com/fortrantip/status/1522907590048587776) 7:53 AM · May 7, 2022 [printf.f90](./printf.f90)<br>
 
 
 
