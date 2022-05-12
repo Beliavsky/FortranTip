@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Use the std::span container from C++ 20 to view a contiguous Fortran array with a STL-compatible interface.](https://twitter.com/fortrantip/status/1524730212176564230) 8:36 AM · May 12, 2022 [test_sort.f90](./test_sort.f90) [sort.cpp](./sort.cpp)<br>
 [C++ functions can be called from Fortran if they are declared extern "C" and have C-like arguments.](https://twitter.com/fortrantip/status/1523289035900276736) 9:09 AM · May 8, 2022 [xnormal.f90](./xnormal.f90) [normal_array.cpp](./normal_array.cpp)<br>
 [The Fortran name can differ from the C name of a function if the NAME attribute appears in BIND.](https://twitter.com/fortrantip/status/1522907590048587776) 7:53 AM · May 7, 2022 [printf.f90](./printf.f90)<br>
 [A simple derived type with the BIND(C) attribute interoperates with a C struct.](https://twitter.com/fortrantip/status/1522553330282778625) 8:26 AM · May 6, 2022<br>
