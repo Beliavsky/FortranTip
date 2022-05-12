@@ -252,13 +252,14 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Unlimited polymorphic pointer can point to any type.](https://twitter.com/fortrantip/status/1496470666576642048) 8:03 AM · Feb 23, 2022 [unlimited_pointer.f90](./unlimited_pointer.f90)<br>
 [Assumed type arguments have no declared type.](https://twitter.com/fortrantip/status/1496825853551992843) 7:34 AM · Feb 24, 2022 [assumed_type.f90](./assumed_type.f90)<br>
 
-### Interoperability with C
+### Interoperability with C and C++
 [Fortran 2003 standardized the interoperation of Fortran and C.](https://twitter.com/fortrantip/status/1521476255165698051) 9:06 AM · May 3, 2022<br>
 [C library functions can be called if an INTERFACE is provided.](https://twitter.com/fortrantip/status/1521921486302363656) 2:35 PM · May 4, 2022 [atoi_vs_read.f90](./atoi_vs_read.f90)<br>
 [Non-pointer arguments of C functions should have the VALUE attribute in the Fortran interface.](https://twitter.com/fortrantip/status/1522208519096836096) 9:36 AM · May 5, 2022 [xsum_vec.f90](./xsum_vec.f90) [sum_vec.c](./sum_vec.c)<br>
 [A simple derived type with the BIND(C) attribute interoperates with a C struct.](https://twitter.com/fortrantip/status/1522553330282778625) 8:26 AM · May 6, 2022<br>
 [The Fortran name can differ from the C name of a function if the NAME attribute appears in BIND.](https://twitter.com/fortrantip/status/1522907590048587776) 7:53 AM · May 7, 2022 [printf.f90](./printf.f90)<br>
 [C++ functions can be called from Fortran if they are declared extern "C" and have C-like arguments.](https://twitter.com/fortrantip/status/1523289035900276736) 9:09 AM · May 8, 2022 [xnormal.f90](./xnormal.f90) [normal_array.cpp](./normal_array.cpp)<br>
+[Use the std::span container from C++ 20 to view a contiguous Fortran array with a STL-compatible interface.](https://twitter.com/fortrantip/status/1524730212176564230) 8:36 AM · May 12, 2022 [test_sort.f90](./test_sort.f90) [sort.cpp](./sort.cpp)<br>
 
 
 
