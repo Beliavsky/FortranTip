@@ -1,3 +1,4 @@
+! More examples of calling C to process matrices are in xxmat.f90
 module matrix_mod
 use iso_c_binding, only: c_int, c_float
 implicit none
