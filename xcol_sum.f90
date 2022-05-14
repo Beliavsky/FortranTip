@@ -33,6 +33,10 @@ do ir=1,nr
 end do
 ! call subroutine with explicit-shape array arguments
 call sum_cols(nrow_c=nc, ncol_c=nr, x=x, col_sums=col_sums)
+print fmt,"col_sums=",col_sums
+! call function with assumed-shape argument -- simpler
+print fmt,"col_sums=",column_sums(x)
+end program xcol_sum
 ! Compile with
 !   gcc -c -o sum_rows.o sum_rows.c
 !   gfortran sum_rows.o xcol_sum.f90
@@ -42,7 +46,3 @@ call sum_cols(nrow_c=nc, ncol_c=nr, x=x, col_sums=col_sums)
 !   21.0  22.0  23.0
 ! col_sums=  32.0  34.0  36.0
 ! col_sums=  32.0  34.0  36.0
-print fmt,"col_sums=",col_sums
-! call function with assumed-shape argument -- simpler
-print fmt,"col_sums=",column_sums(x)
-end program xcol_sum
