@@ -1,3 +1,5 @@
+! warning: calling printf this way does not work for float or double arguments
+! and is not standard-conforming -- see https://fortran-lang.discourse.group/t/gfortran-bindc-printf/3445
 program call_printf ! GitHub FortranTip printf.f90
 use iso_c_binding, only: c_int, c_char, c_null_char, c_new_line
 interface
