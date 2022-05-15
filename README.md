@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Common block and module variables with bind(c) can be accessed from C.](https://twitter.com/fortrantip/status/1525817060856561667) 8:35 AM · May 15, 2022 [xcircle.f90](./xcircle.f90) [circle.c](./circle.c)<br>
 [Fortran array x(n1,n2) passed to C array x[n2][n1]](https://twitter.com/fortrantip/status/1525473581492314112) 9:50 AM · May 14, 2022 [xcol_sum.f90](./xcol_sum.f90) [sum_rows.c](./sum_rows.c)<br>
 [Use the std::span container from C++ 20 to view a contiguous Fortran array with a STL-compatible interface.](https://twitter.com/fortrantip/status/1524730212176564230) 8:36 AM · May 12, 2022 [test_sort.f90](./test_sort.f90) [sort.cpp](./sort.cpp)<br>
 [C++ functions can be called from Fortran if they are declared extern "C" and have C-like arguments.](https://twitter.com/fortrantip/status/1523289035900276736) 9:09 AM · May 8, 2022 [xnormal.f90](./xnormal.f90) [normal_array.cpp](./normal_array.cpp)<br>
