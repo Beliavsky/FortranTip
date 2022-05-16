@@ -262,6 +262,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Use the std::span container from C++ 20 to view a contiguous Fortran array with a STL-compatible interface.](https://twitter.com/fortrantip/status/1524730212176564230) 8:36 AM · May 12, 2022 [test_sort.f90](./test_sort.f90) [sort.cpp](./sort.cpp)<br>
 [Fortran array x(n1,n2) passed to C array x[n2][n1]](https://twitter.com/fortrantip/status/1525473581492314112) 9:50 AM · May 14, 2022 [xcol_sum.f90](./xcol_sum.f90) [sum_rows.c](./sum_rows.c)<br>
 [Common block and module variables with bind(c) can be accessed from C.](https://twitter.com/fortrantip/status/1525817060856561667) 8:35 AM · May 15, 2022 [xcircle.f90](./xcircle.f90) [circle.c](./circle.c)<br>
+[An allocated allocatable array can be passed to C as an explicit-shape array.](https://twitter.com/fortrantip/status/1526179041652486147) 8:33 AM · May 16, 2022 [xscale.f90](./xscale.f90) [scale_vec.c](./scale_vec.c)<br>
 
 
 
