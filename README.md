@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Use c_funloc() to pass a Fortran function as an argument to a C function.](https://twitter.com/fortrantip/status/1527249982692245510) 7:29 AM · May 19, 2022 [c_func_ptr.f90](./c_func_ptr.f90) [cfuncptr.c](./cfuncptr.c) <br>
 [Use valgrind to find memory leaks in programs that use pointers.](https://twitter.com/fortrantip/status/1526882686467448833) 7:09 AM · May 18, 2022 [leak.f90](./leak.f90)<br>
 [Use TYPE(C_PTR) and C_F_POINTER to call a C function returning a pointer.](https://twitter.com/fortrantip/status/1526575755903246336) 10:49 AM · May 17, 2022 [c_f_pointer.f90](./c_f_pointer.f90) [squares.c](./squares.c) <br>
 [An allocated allocatable array can be passed to C as an explicit-shape array.](https://twitter.com/fortrantip/status/1526179041652486147) 8:33 AM · May 16, 2022 [xscale.f90](./xscale.f90) [scale_vec.c](./scale_vec.c)<br>
