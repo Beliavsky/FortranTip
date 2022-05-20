@@ -266,3 +266,4 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [An allocated allocatable array can be passed to C as an explicit-shape array.](https://twitter.com/fortrantip/status/1526179041652486147) 8:33 AM · May 16, 2022 [xscale.f90](./xscale.f90) [scale_vec.c](./scale_vec.c)<br>
 [Use TYPE(C_PTR) and C_F_POINTER to call a C function returning a pointer.](https://twitter.com/fortrantip/status/1526575755903246336) 10:49 AM · May 17, 2022 [c_f_pointer.f90](./c_f_pointer.f90) [squares.c](./squares.c) <br>
 [Use c_funloc() to pass a Fortran function as an argument to a C function.](https://twitter.com/fortrantip/status/1527249982692245510) 7:29 AM · May 19, 2022 [c_func_ptr.f90](./c_func_ptr.f90) [cfuncptr.c](./cfuncptr.c) <br>
+[An omitted Fortran optional argument corresponds to a NULL argument of a C function.](https://twitter.com/fortrantip/status/1527632181983645696) 8:47 AM · May 20, 2022 [xstrtof.f90](./xstrtof.f90)<br>
