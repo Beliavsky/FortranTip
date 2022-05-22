@@ -17,6 +17,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [MOOC on "Defensive programming and debugging"](https://twitter.com/fortrantip/status/1509557710810980358) 11:46 AM · Mar 31, 2022<br>
 [Fortran codes are listed by topic at the fortran-lang package index and Fortran Code on GitHub](https://twitter.com/fortrantip/status/1515656659292598277) 7:41 AM · Apr 17, 2022<br>
 [Use valgrind to find memory leaks in programs that use pointers.](https://twitter.com/fortrantip/status/1526882686467448833) 7:09 AM · May 18, 2022 [leak.f90](./leak.f90)<br>
+[List of books with Fortran code other than Fortran textbooks.](https://twitter.com/fortrantip/status/1528326631043088384) 6:47 AM · May 22, 2022<br>
 
 ### Basics
 [Hello World](https://twitter.com/fortrantip/status/1471887565745799173) 10:58 AM · Dec 17, 2021 [hello_world.f90](./hello_world.f90)<br>
