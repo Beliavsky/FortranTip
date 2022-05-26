@@ -91,6 +91,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Read a file into a string with unformatted stream.](https://twitter.com/fortrantip/status/1510940360582782976) 7:20 AM · Apr 4, 2022 [file_to_string.f90](./file_to_string.f90)<br>
 [Scratch files are unnamed temporary files for I/O.](https://twitter.com/fortrantip/status/1511318331659325445) 8:22 AM · Apr 5, 2022 [scratch.f90](./scratch.f90)<br>
 [Serialize a derived type using unformatted stream I/O.](https://twitter.com/fortrantip/status/1514587088393494528) 8:51 AM · Apr 14, 2022 [dt_stream.f90](./dt_stream.f90)<br>
+[Special meanings of * and / in list-directed input](https://twitter.com/fortrantip/status/1529807207080009729) 8:50 AM · May 26, 2022 [list_directed_read.f90](./list_directed_read.f90)<br>
 
 ### Loops
 [DO-ENDDO loop](https://twitter.com/fortrantip/status/1471891644370796550) 11:14 AM · Dec 17, 2021 [loop.f90](./loop.f90)<br>
