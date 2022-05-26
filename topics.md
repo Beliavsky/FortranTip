@@ -61,6 +61,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [NOT, IAND, IOR, and IEOR perform logical operations on the bit representations of integers.](https://twitter.com/fortrantip/status/1516749872019431432) 8:05 AM · Apr 20, 2022 [bit_func.f90](./bit_func.f90)<br>
 [Use IANY instead of nested IOR, IALL instead of nested IAND.](https://twitter.com/fortrantip/status/1520241782038007808) 11:21 PM · Apr 29, 2022 [iany.f90](./iany.f90)<br>
 [B, O, Z edit descriptors can be used to print integers as binary, octal, or hexadecimal.](https://twitter.com/fortrantip/status/1520746070829158400) 8:44 AM · May 1, 2022 [boz.f90](./boz.f90)<br>
+[Ways of declaring character variables](https://twitter.com/fortrantip/status/1529412759351336960) 6:43 AM · May 25, 2022<br>
 
 ### Input and Output
 [Reading user input](https://twitter.com/fortrantip/status/1472941850218700805) 8:47 AM · Dec 20, 2021 [read_sum.f90](./read_sum.f90)<br>
