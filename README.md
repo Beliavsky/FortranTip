@@ -2,6 +2,8 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Sequence association effectively lets you pass a pointer to an array element.] 8:58 AM · May 31, 2022<br>
+[Wrap a procedure with explicit shape array arguments in a procedure with an assumed shape arguments for safety.] 8:56 AM · May 31, 2022 [wrap_explicit_shape.f90](./wrap_explicit_shape.f90)<br>
 [Special meanings of * and / in list-directed input](https://twitter.com/fortrantip/status/1529807207080009729) 8:50 AM · May 26, 2022 [list_directed_read.f90](./list_directed_read.f90)<br>
 [Ways of declaring character variables](https://twitter.com/fortrantip/status/1529412759351336960) 6:43 AM · May 25, 2022<br>
 [List of books with Fortran code other than Fortran textbooks.](https://twitter.com/fortrantip/status/1528326631043088384) 6:47 AM · May 22, 2022<br>
