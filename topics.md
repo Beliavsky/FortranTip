@@ -139,6 +139,8 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Bounds of a derived type array component are preserved when passed to procedure.](https://twitter.com/fortrantip/status/1493214664754438149) 8:24 AM · Feb 14, 2022 [lbound_assumed_shape.f90](./lbound_assumed_shape.f90)<br>
 [Bounds of an allocatable array are preserved when passed to an allocatable, intent(in) or intent(in out) argument.](https://twitter.com/fortrantip/status/1493569929668354051) 7:56 AM · Feb 15, 2022 [allocatable_bounds.f90](./allocatable_bounds.f90)<br>
 [Check that assumed-shape array arguments have consistent dimensions.](https://twitter.com/fortrantip/status/1497562564334694401) 8:21 AM · Feb 26, 2022 [error_handling.f90](./error_handling.f90)<br>
+[Wrap a procedure with explicit shape array arguments in a procedure with an assumed shape arguments for safety.](https://twitter.com/fortrantip/status/1531620667220709377) 8:56 AM · May 31, 2022 [wrap_explicit_shape.f90](./wrap_explicit_shape.f90)<br>
+[Sequence association effectively lets you pass a pointer to an array element.](https://twitter.com/fortrantip/status/1531621102879133696) 8:58 AM · May 31, 2022<br>
 
 ### Character variables
 [An array of character variables has elements of the same LEN(gth).](https://twitter.com/fortrantip/status/1472207576133783564) 8:10 AM · Dec 18, 2021 [char.f90](./char.f90)<br>
