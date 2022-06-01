@@ -141,6 +141,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Check that assumed-shape array arguments have consistent dimensions.](https://twitter.com/fortrantip/status/1497562564334694401) 8:21 AM · Feb 26, 2022 [error_handling.f90](./error_handling.f90)<br>
 [Wrap a procedure with explicit shape array arguments in a procedure with an assumed shape arguments for safety.](https://twitter.com/fortrantip/status/1531620667220709377) 8:56 AM · May 31, 2022 [wrap_explicit_shape.f90](./wrap_explicit_shape.f90)<br>
 [Sequence association effectively lets you pass a pointer to an array element.](https://twitter.com/fortrantip/status/1531621102879133696) 8:58 AM · May 31, 2022<br>
+[With sequence association, the shapes of the actual and dummy arguments need not match.](https://twitter.com/fortrantip/status/1532039979723022337) 12:42 PM · Jun 1, 2022 [print_mat.f90](./print_mat.f90)<br>
 
 ### Character variables
 [An array of character variables has elements of the same LEN(gth).](https://twitter.com/fortrantip/status/1472207576133783564) 8:10 AM · Dec 18, 2021 [char.f90](./char.f90)<br>
