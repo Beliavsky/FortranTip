@@ -133,6 +133,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Concatenate arrays and scalars in an array constructor []](https://twitter.com/fortrantip/status/1491021968799600641) 7:11 AM · Feb 8, 2022 [concatenate.f90](./concatenate.f90)<br>
 [spread(source, dim, ncopies) copies a SOURCE array NCOPIES times along dimension DIM.](https://twitter.com/fortrantip/status/1491380119616700417) 6:55 AM · Feb 9, 2022 [spread.f90](./spread.f90)<br>
 [How to reverse an array or character string](https://twitter.com/fortrantip/status/1492844114492243971) 7:52 AM · Feb 13, 2022 [reverse.f90](./reverse.f90)<br>
+[Use the optional KIND argument of SIZE, MINLOC, FINDLOC etc. for large arrays.](https://twitter.com/fortrantip/status/1534178812501577731) 10:21 AM · Jun 7, 2022 [size_test.f90](./size_test.f90)<br>
 
 ### Array arguments
 [Array lower bounds are not preserved when passed as assumed shape argument.](https://twitter.com/fortrantip/status/1493207320184164352) 7:55 AM · Feb 14, 2022 [lbound_assumed_shape.f90](./lbound_assumed_shape.f90)<br>
