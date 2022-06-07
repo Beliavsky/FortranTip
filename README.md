@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Use the optional KIND argument of SIZE, MINLOC, FINDLOC etc. for large arrays.](https://twitter.com/fortrantip/status/1534178812501577731) 10:21 AM · Jun 7, 2022 [size_test.f90](./size_test.f90)<br>
 [With sequence association, the shapes of the actual and dummy arguments need not match.](https://twitter.com/fortrantip/status/1532039979723022337) 12:42 PM · Jun 1, 2022 [print_mat.f90](./print_mat.f90)<br>
 [Sequence association effectively lets you pass a pointer to an array element.](https://twitter.com/fortrantip/status/1531621102879133696) 8:58 AM · May 31, 2022<br>
 [Wrap a procedure with explicit shape array arguments in a procedure with an assumed shape arguments for safety.](https://twitter.com/fortrantip/status/1531620667220709377) 8:56 AM · May 31, 2022 [wrap_explicit_shape.f90](./wrap_explicit_shape.f90)<br>
