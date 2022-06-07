@@ -1,7 +1,6 @@
-program size_test
+program size_test ! GitHub FortranTip size_test.f90
 use iso_fortran_env, only: int64
 implicit none
-integer :: stat
 integer(kind=int64) :: n
 real, allocatable :: x(:)
 n = 3d9
