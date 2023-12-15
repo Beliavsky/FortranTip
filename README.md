@@ -2,13 +2,13 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
-[Brad Richardson's videos](https://twitter.com/fortrantip/status/1735663680040177930) 9:10 AM · Dec 15, 2023
-[Fortran is ranked 12th in the December Tiobe programming language index](https://twitter.com/fortrantip/status/1734541344004092319) 6:50 AM · Dec 12, 2023
-[Test-drive from @fortranlang and other unit testing frameworks](https://twitter.com/fortrantip/status/1734170647507398814) 6:17 AM · Dec 11, 2023
-[Fortran testing "unframework"](https://twitter.com/fortrantip/status/1734169716766171416) 6:14 AM · Dec 11, 2023
-[Ifx is now the flagship Intel Fortran compiler, replacing ifort.](https://twitter.com/fortrantip/status/1733813564001997133) 6:39 AM · Dec 10, 2023
-[PlusFORT 8, a suite of tools for analyzing and improving Fortran programs, is free for noncommercial use](https://twitter.com/fortrantip/status/1733453265117831675) 6:47 AM · Dec 9, 2023
-[Modern Fortran Explained: Incorporating Fortran 2023 published](https://twitter.com/fortrantip/status/1733157239085535252) 11:11 AM · Dec 8, 2023
+[Brad Richardson's videos](https://twitter.com/fortrantip/status/1735663680040177930) 9:10 AM · Dec 15, 2023<br>
+[Fortran is ranked 12th in the December Tiobe programming language index](https://twitter.com/fortrantip/status/1734541344004092319) 6:50 AM · Dec 12, 2023<br>
+[Test-drive from @fortranlang and other unit testing frameworks](https://twitter.com/fortrantip/status/1734170647507398814) 6:17 AM · Dec 11, 2023<br>
+[Fortran testing "unframework"](https://twitter.com/fortrantip/status/1734169716766171416) 6:14 AM · Dec 11, 2023<br>
+[Ifx is now the flagship Intel Fortran compiler, replacing ifort.](https://twitter.com/fortrantip/status/1733813564001997133) 6:39 AM · Dec 10, 2023<br>
+[PlusFORT 8, a suite of tools for analyzing and improving Fortran programs, is free for noncommercial use](https://twitter.com/fortrantip/status/1733453265117831675) 6:47 AM · Dec 9, 2023<br>
+[Modern Fortran Explained: Incorporating Fortran 2023 published](https://twitter.com/fortrantip/status/1733157239085535252) 11:11 AM · Dec 8, 2023<br>
 [Use the optional KIND argument of SIZE, MINLOC, FINDLOC etc. for large arrays.](https://twitter.com/fortrantip/status/1534178812501577731) 10:21 AM · Jun 7, 2022 [size_test.f90](./size_test.f90)<br>
 [With sequence association, the shapes of the actual and dummy arguments need not match.](https://twitter.com/fortrantip/status/1532039979723022337) 12:42 PM · Jun 1, 2022 [print_mat.f90](./print_mat.f90)<br>
 [Sequence association effectively lets you pass a pointer to an array element.](https://twitter.com/fortrantip/status/1531621102879133696) 8:58 AM · May 31, 2022<br>
