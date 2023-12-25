@@ -11,7 +11,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Fast_math is a library of functions for summation, trig, log, and sqrt that is faster and more accurate than the compiler intrinsics on some platforms.](https://twitter.com/fortrantip/status/1736736771696697514) 8:14 AM · Dec 18, 2023<br>
 [Feq-parse allows you to define functions as character strings and evaluate them on-the-fly.](https://twitter.com/fortrantip/status/1736368423762882948) 7:51 AM · Dec 17, 2023<br>
 [Fortran-shlex ports the Python’s shlex shell-like lexer.](https://twitter.com/fortrantip/status/1735982360582053959) 6:17 AM · Dec 16, 2023<br>
-[Brad Richardson's videos](https://twitter.com/fortrantip/status/1735663680040177930) 9:10 AM · Dec 15, 2023<br>
+[Brad Richardson's videos on Fortran 2023 and other topics](https://twitter.com/fortrantip/status/1735663680040177930) 9:10 AM · Dec 15, 2023<br>
 [Fortran is ranked 12th in the December Tiobe programming language index](https://twitter.com/fortrantip/status/1734541344004092319) 6:50 AM · Dec 12, 2023<br>
 [Test-drive from @fortranlang and other unit testing frameworks](https://twitter.com/fortrantip/status/1734170647507398814) 6:17 AM · Dec 11, 2023<br>
 [Fortran testing "unframework"](https://twitter.com/fortrantip/status/1734169716766171416) 6:14 AM · Dec 11, 2023<br>
