@@ -3,6 +3,12 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
 [Declare and set quadruple precision variables in a standard-conforming way by setting a KIND](https://twitter.com/fortrantip/status/1739252899589308855) 6:52 AM · Dec 25, 2023 [quad.f90](./quad.f90)<br>
+[Fortran 2023 Standard and Interpretation Document](https://twitter.com/fortrantip/status/1738915596111089790) 8:32 AM · Dec 24, 2023<br>
+[Access comp.lang.fortran and other Usenet groups with Nemoweb](https://twitter.com/fortrantip/status/1738600402679947765) 11:40 AM · Dec 23, 2023<br>
+[Fortls is a language server for Fortran that interfaces with a code editor](https://twitter.com/fortrantip/status/1738185420590944609) 8:11 AM · Dec 22, 2023<br>
+[Fast_math is a library of functions for summation, trig, log, and sqrt that is faster and more accurate than the compiler intrinsics on some platforms.](https://twitter.com/fortrantip/status/1736736771696697514) 8:14 AM · Dec 18, 2023<br>
+[Link to talk on Using the HPE Cray Programming Environment to Port and Optimize (Fortran) Applications to a GPU environment](https://twitter.com/fortrantip/status/1737440975520252190) 6:53 AM · Dec 20, 2023<br>
+[Physical constants are available from the NIST codata project](https://twitter.com/fortrantip/status/1737086403379429583) 7:24 AM · Dec 19, 2023<br>
 [Brad Richardson's videos](https://twitter.com/fortrantip/status/1735663680040177930) 9:10 AM · Dec 15, 2023<br>
 [Fortran is ranked 12th in the December Tiobe programming language index](https://twitter.com/fortrantip/status/1734541344004092319) 6:50 AM · Dec 12, 2023<br>
 [Test-drive from @fortranlang and other unit testing frameworks](https://twitter.com/fortrantip/status/1734170647507398814) 6:17 AM · Dec 11, 2023<br>
