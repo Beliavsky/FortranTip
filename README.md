@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Declare and set quadruple precision variables in a standard-conforming way by setting a KIND](https://twitter.com/fortrantip/status/1739252899589308855) 6:52 AM · Dec 25, 2023 [quad.f90](./quad.f90)<br>
 [Brad Richardson's videos](https://twitter.com/fortrantip/status/1735663680040177930) 9:10 AM · Dec 15, 2023<br>
 [Fortran is ranked 12th in the December Tiobe programming language index](https://twitter.com/fortrantip/status/1734541344004092319) 6:50 AM · Dec 12, 2023<br>
 [Test-drive from @fortranlang and other unit testing frameworks](https://twitter.com/fortrantip/status/1734170647507398814) 6:17 AM · Dec 11, 2023<br>
