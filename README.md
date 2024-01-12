@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Use unformatted stream I/O to quickly and exactly store data.](https://twitter.com/fortrantip/status/1745778303443628049) 7:02 AM · Jan 12, 2024 [unformatted_stream.f90[(./unformatted_stream.f90)<br>
 [Declare and set quadruple precision variables in a standard-conforming way by setting a KIND](https://twitter.com/fortrantip/status/1739252899589308855) 6:52 AM · Dec 25, 2023 [quad.f90](./quad.f90)<br>
 [Fortran 2023 Standard and Interpretation Document](https://twitter.com/fortrantip/status/1738915596111089790) 8:32 AM · Dec 24, 2023<br>
 [Access comp.lang.fortran and other Usenet groups with Nemoweb](https://twitter.com/fortrantip/status/1738600402679947765) 11:40 AM · Dec 23, 2023<br>
