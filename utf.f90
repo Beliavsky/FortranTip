@@ -1,8 +1,8 @@
 ! GitHub FortranTip utf.f90
 ! by Vincent Magnin at Fortran Discourse
 ! contents of utf_in.txt are the next 2 lines
-! Lire des caractères accentués n'est pas difficile.
-! éèçàâäùëêïîüûöô
+! Lire des caractÃ¨res accentuÃ©s n'est pas difficile.
+! Ã©Ã¨Ã§Ã Ã¢Ã¤Ã¹Ã«ÃªÃ¯Ã®Ã¼Ã»Ã¶Ã´
 use iso_fortran_env, only: output_unit
 implicit none
 integer, parameter :: ucs4 = selected_char_kind("iso_10646")
@@ -18,6 +18,4 @@ write(output_unit, "(a)") string
 read( 10, "(a)") string
 write(11, "(a)") string
 write(output_unit, "(a)") string
-close(10)
-close(11)
 end
