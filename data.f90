@@ -1,4 +1,4 @@
-module m
+module m ! GitHub FortranTip data.f90
 implicit none
 contains
 function factorial(n) result(ifac)
