@@ -6,6 +6,10 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Installing gfortran on Windows](https://twitter.com/fortrantip/status/1763893232847450118) 6:44 AM · Mar 2, 2024<br>
 [Overloading of asterisk (*) -- post by John Harper](https://twitter.com/fortrantip/status/1763564291456684077) 8:57 AM · Mar 1, 2024<br>
 [Special meaning of asterisk (*) in DATA, READ, and NAMELIST](https://twitter.com/fortrantip/status/1763118013086126234) 3:24 AM · Feb 29, 2024<br>
+[Variables set in a DATA statement have the SAVE attribute](https://twitter.com/fortrantip/status/1762805946684752059) 6:44 AM · Feb 28, 2024<br>
+[DATA statement should be placed just after declarations](https://twitter.com/fortrantip/status/1762311744523800640) 10:00 PM · Feb 26, 2024<br>
+[New preprint "Accelerating Fortran Codes: A Method for Integrating Coarray Fortran with Cuda Fortran and Openmp"](https://twitter.com/fortrantip/status/1761873094212260275) 4:57 PM · Feb 25, 2024<br>
+[CHARACTER (len=*) and * in declarations of named constant arrays](https://twitter.com/fortrantip/status/1761163705524396432) 5:58 PM · Feb 23, 2024<br>
 [Use unformatted stream I/O to quickly and exactly store data.](https://twitter.com/fortrantip/status/1745778303443628049) 7:02 AM · Jan 12, 2024 [unformatted_stream.f90](./unformatted_stream.f90)<br>
 [Declare and set quadruple precision variables in a standard-conforming way by setting a KIND](https://twitter.com/fortrantip/status/1739252899589308855) 6:52 AM · Dec 25, 2023 [quad.f90](./quad.f90)<br>
 [Fortran 2023 Standard and Interpretation Document](https://twitter.com/fortrantip/status/1738915596111089790) 8:32 AM · Dec 24, 2023<br>
