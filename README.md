@@ -16,6 +16,7 @@ linking to [Fortran Discourse](https://fortran-lang.discourse.group/t/banded-sol
 [New paper "Scheduling and Performance of Asynchronous Tasks in Fortran 2018 with FEATS"](https://twitter.com/fortrantip/status/1774950886474678392) 8:04 PM · Apr 1, 2024 -- [GitHub](https://github.com/sourceryinstitute/FEATS)<br>
 [Is Fortran Memory-Safe?](https://twitter.com/fortrantip/status/1773733360742895666) 11:26 AM · Mar 29, 2024 -- [Fortran Discourse](https://fortran-lang.discourse.group/t/is-fortran-memory-safe/7716/21)<br>
 [For REAL x and COMPLEX z, x = z%re is clearer than x = z](https://twitter.com/fortrantip/status/1771496228359942251) 7:16 AM · Mar 23, 2024<br>
+[Production code should not use parameterized derived types](https://twitter.com/fortrantip/status/1770952019072758008) 7:13 PM · Mar 21, 2024 -- [Fortran Discourse](https://fortran-lang.discourse.group/t/pdt-memory-footprint/7666)<br>
 [Namelists blog post by Antoine Dauptain](https://twitter.com/fortrantip/status/1764262409554817283) 7:11 AM · Mar 3, 2024<br>
 [Installing gfortran on Windows](https://twitter.com/fortrantip/status/1763893232847450118) 6:44 AM · Mar 2, 2024<br>
 [Overloading of asterisk (*) -- post by John Harper](https://twitter.com/fortrantip/status/1763564291456684077) 8:57 AM · Mar 1, 2024<br>
