@@ -6,6 +6,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 [Table of banded linear solvers in Fortran](https://twitter.com/fortrantip/status/1791774218209644782) 6:13 AM · May 18, 2024
 linking to [Fortran Discourse](https://fortran-lang.discourse.group/t/banded-solvers-table/8015)<br>
 [Fortran ranked 10th on TIOBE](https://twitter.com/fortrantip/status/1787438274421682337) 7:04 AM · May 6, 2024 <br>
+[Repost: How to use LFortran to compile Fortran codes to WebAssembly via LLVM and host on static web pages](https://twitter.com/lfortranorg/status/1786129003486581025) 4:21 PM · May 2, 2024 linking to [blog post](https://lfortran.org/blog/2024/05/fortran-on-web-using-lfortran/) <br>
 [Namelists blog post by Antoine Dauptain](https://twitter.com/fortrantip/status/1764262409554817283) 7:11 AM · Mar 3, 2024<br>
 [Installing gfortran on Windows](https://twitter.com/fortrantip/status/1763893232847450118) 6:44 AM · Mar 2, 2024<br>
 [Overloading of asterisk (*) -- post by John Harper](https://twitter.com/fortrantip/status/1763564291456684077) 8:57 AM · Mar 1, 2024<br>
