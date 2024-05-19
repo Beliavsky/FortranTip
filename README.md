@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Fortran features in GCC 14](https://twitter.com/fortrantip/status/1791453544911946114) 8:59 AM · May 17, 2024 linking to [Fortran Discourse](https://fortran-lang.discourse.group/t/gcc-14-fortran-features/7984)
 [Namelists blog post by Antoine Dauptain](https://twitter.com/fortrantip/status/1764262409554817283) 7:11 AM · Mar 3, 2024<br>
 [Installing gfortran on Windows](https://twitter.com/fortrantip/status/1763893232847450118) 6:44 AM · Mar 2, 2024<br>
 [Overloading of asterisk (*) -- post by John Harper](https://twitter.com/fortrantip/status/1763564291456684077) 8:57 AM · Mar 1, 2024<br>
