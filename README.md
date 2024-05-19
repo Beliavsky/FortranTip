@@ -14,6 +14,7 @@ linking to [Fortran Discourse](https://fortran-lang.discourse.group/t/banded-sol
 [Fortran for Scientific Computing course at HLRS](https://twitter.com/fortrantip/status/1778568392200368442) 7:38 PM · Apr 11, 2024 -- [course site](https://www.hlrs.de/training/2024/ftn1)<br>
 [Intermediate Modern Fortran course by Kevin Stratford](https://twitter.com/fortrantip/status/1777871470837842293) 9:29 PM · Apr 9, 2024 -- [GitHub](https://github.com/ARCHER2-HPC/archer2-fortran-inter)<br>
 [New paper "Scheduling and Performance of Asynchronous Tasks in Fortran 2018 with FEATS"](https://twitter.com/fortrantip/status/1774950886474678392) 8:04 PM · Apr 1, 2024 -- [GitHub](https://github.com/sourceryinstitute/FEATS)<br>
+[Is Fortran Memory-Safe?](https://twitter.com/fortrantip/status/1773733360742895666) 11:26 AM · Mar 29, 2024 -- [Fortran Discourse](https://fortran-lang.discourse.group/t/is-fortran-memory-safe/7716/21)<br>
 [Namelists blog post by Antoine Dauptain](https://twitter.com/fortrantip/status/1764262409554817283) 7:11 AM · Mar 3, 2024<br>
 [Installing gfortran on Windows](https://twitter.com/fortrantip/status/1763893232847450118) 6:44 AM · Mar 2, 2024<br>
 [Overloading of asterisk (*) -- post by John Harper](https://twitter.com/fortrantip/status/1763564291456684077) 8:57 AM · Mar 1, 2024<br>
