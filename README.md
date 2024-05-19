@@ -12,6 +12,7 @@ linking to [Fortran Discourse](https://fortran-lang.discourse.group/t/banded-sol
 [Fortran projects of gha3mi](https://twitter.com/fortrantip/status/1780218918272938452) 8:57 AM · Apr 16, 2024 on [GitHub](https://github.com/gha3mi)<br>
 [Fortran Standard Library v0.5.0 is released](https://twitter.com/fortrantip/status/1778757751994237297) 8:11 AM · Apr 12, 2024 linking to [Fortran Discourse](https://fortran-lang.discourse.group/t/fortran-standard-library-release-v0-5-0/7827)<br>
 [Fortran for Scientific Computing course at HLRS](https://twitter.com/fortrantip/status/1778568392200368442) 7:38 PM · Apr 11, 2024 -- [course site](https://www.hlrs.de/training/2024/ftn1)<br>
+[Intermediate Modern Fortran course by Kevin Stratford](https://twitter.com/fortrantip/status/1777871470837842293) 9:29 PM · Apr 9, 2024 -- [GitHub](https://github.com/ARCHER2-HPC/archer2-fortran-inter)<br>
 [Namelists blog post by Antoine Dauptain](https://twitter.com/fortrantip/status/1764262409554817283) 7:11 AM · Mar 3, 2024<br>
 [Installing gfortran on Windows](https://twitter.com/fortrantip/status/1763893232847450118) 6:44 AM · Mar 2, 2024<br>
 [Overloading of asterisk (*) -- post by John Harper](https://twitter.com/fortrantip/status/1763564291456684077) 8:57 AM · Mar 1, 2024<br>
