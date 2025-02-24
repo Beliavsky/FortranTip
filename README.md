@@ -4,6 +4,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
 [Quickr transpiles numerical R functions to Fortran for speed](https://x.com/fortrantip/status/1894016806181912888) 8:29 AM · Feb 24, 2025 repo [here](https://github.com/t-kalinowski/quickr)<br>
 [John Burkardt's Fortran 90 codes are on GitHub](https://x.com/fortrantip/status/1893676163408462200) 9:55 AM · Feb 23, 2025 repo [here](https://github.com/Beliavsky/Burkardt-Fortran-90-codes)<br>
+[Online Fortran course March 11-13](https://x.com/fortrantip/status/1892904545430241722) 6:49 AM · Feb 21, 2025 course [here](https://app1.edoobox.com/en/LRZ/Online%20Courses/Online%20Course.ed.261c58415238_9219495016.Programming%20with%20Fortran), notes for previous version [here](https://app1.edoobox.com/en/LRZ/Online%20Courses/Online%20Course.ed.261c58415238_9219495016.Programming%20with%20Fortran)<br>
 [Fortran features in GCC 14](https://twitter.com/fortrantip/status/1791453544911946114) 8:59 AM · May 17, 2024 linking to [Fortran Discourse](https://fortran-lang.discourse.group/t/gcc-14-fortran-features/7984)<br>
 [Table of banded linear solvers in Fortran](https://twitter.com/fortrantip/status/1791774218209644782) 6:13 AM · May 18, 2024
 linking to [Fortran Discourse](https://fortran-lang.discourse.group/t/banded-solvers-table/8015)<br>
