@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Quickr transpiles numerical R functions to Fortran for speed](https://x.com/fortrantip/status/1894016806181912888) 8:29 AM · Feb 24, 2025 <br>
 [Fortran features in GCC 14](https://twitter.com/fortrantip/status/1791453544911946114) 8:59 AM · May 17, 2024 linking to [Fortran Discourse](https://fortran-lang.discourse.group/t/gcc-14-fortran-features/7984)<br>
 [Table of banded linear solvers in Fortran](https://twitter.com/fortrantip/status/1791774218209644782) 6:13 AM · May 18, 2024
 linking to [Fortran Discourse](https://fortran-lang.discourse.group/t/banded-solvers-table/8015)<br>
