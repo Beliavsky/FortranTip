@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[400 projects that work with the Fortran Package Manager, listed by topic](https://x.com/fortrantip/status/1897613344049095105) 6:40 AM · Mar 6, 2025 [here](https://beliavsky.github.io/Fortran-packages-list/)<br>
 [Quickr transpiles numerical R functions to Fortran for speed](https://x.com/fortrantip/status/1894016806181912888) 8:29 AM · Feb 24, 2025 repo [here](https://github.com/t-kalinowski/quickr)<br>
 [John Burkardt's Fortran 90 codes are on GitHub](https://x.com/fortrantip/status/1893676163408462200) 9:55 AM · Feb 23, 2025 repo [here](https://github.com/Beliavsky/Burkardt-Fortran-90-codes)<br>
 [Online Fortran course March 11-13](https://x.com/fortrantip/status/1892904545430241722) 6:49 AM · Feb 21, 2025 course [here](https://app1.edoobox.com/en/LRZ/Online%20Courses/Online%20Course.ed.261c58415238_9219495016.Programming%20with%20Fortran), notes for previous version [here](https://app1.edoobox.com/en/LRZ/Online%20Courses/Online%20Course.ed.261c58415238_9219495016.Programming%20with%20Fortran)<br>
