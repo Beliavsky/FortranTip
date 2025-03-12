@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[First official release of Flang compiler](https://x.com/fortrantip/status/1899774480655778016) 6:48 AM · Mar 12, 2025 announcement [here](https://blog.llvm.org/posts/2025-03-11-flang-new/)<br>
 [400 projects that work with the Fortran Package Manager, listed by topic](https://x.com/fortrantip/status/1897613344049095105) 6:40 AM · Mar 6, 2025 [here](https://beliavsky.github.io/Fortran-packages-list/)<br>
 [Meaning of dimension(1) arguments](https://x.com/fortrantip/status/1896255886148124811) 12:46 PM · Mar 2, 2025 discussed [here](https://fortran-lang.discourse.group/t/compiler-option-to-warn-about-argument-declarations-of-x-1-instead-of-x/9285/22)<br>
 [F-IKOS is a static analyzer for Fortran](https://x.com/fortrantip/status/1894725622074667067) 7:26 AM · Feb 26, 2025 available [here](https://github.com/zoush99/f-ikos)<br>
