@@ -3,6 +3,7 @@ Short instructional Fortran codes associated with Twitter [@FortranTip](https://
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
 [Read line with advance="no" and size specifier to avoid trailing spaces](https://x.com/fortrantip/status/1901252990805147988) 8:43 AM · Mar 16, 2025 code [here](https://github.com/guntherwillems/fortran-file-read)<br>
+[Numerical algorithms to code to learn a scientific programming language](https://x.com/fortrantip/status/1900141303779795349) 7:06 AM · Mar 13, 2025 [post](https://fortran-lang.discourse.group/t/first-time-fortran-lang-programmer-advice-for-a-newbie/9319/10)<br>
 [First official release of Flang compiler](https://x.com/fortrantip/status/1899774480655778016) 6:48 AM · Mar 12, 2025 announcement [here](https://blog.llvm.org/posts/2025-03-11-flang-new/)<br>
 [Guides to Fortran intrinsic functions, statements, and syntax by John S. Urban](https://x.com/fortrantip/status/1899514136549060662) 1:33 PM · Mar 11, 2025 [here](https://urbanjost.github.io/M_intrinsics/)<br>
 [Getting started with Fortran using FPM and stdlib](https://x.com/fortrantip/status/1899050040779231481) 6:49 AM · Mar 10, 2025 [Fortran Discourse post](https://fortran-lang.discourse.group/t/first-time-fortran-lang-programmer-advice-for-a-newbie/9319/5)<br>
