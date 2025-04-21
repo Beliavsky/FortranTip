@@ -2,6 +2,7 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/). Recently I have duplicated Twitter posts at [Bluesky](https://bsky.app/profile/fortrantip.bsky.social).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[Webinar - Fortran on CPU and GPU, by Vincent Lafage](https://x.com/fortrantip/status/1913987678523052049) 12:06 PM · Apr 20, 2025 [video](https://www.youtube.com/watch?v=iXodpBBvVQY)<br>
 [Read line with advance="no" and size specifier to avoid trailing spaces](https://x.com/fortrantip/status/1901252990805147988) 8:43 AM · Mar 16, 2025 code [here](https://github.com/guntherwillems/fortran-file-read)<br>
 [Numerical algorithms to code to learn a scientific programming language](https://x.com/fortrantip/status/1900141303779795349) 7:06 AM · Mar 13, 2025 [post](https://fortran-lang.discourse.group/t/first-time-fortran-lang-programmer-advice-for-a-newbie/9319/10)<br>
 [First official release of Flang compiler](https://x.com/fortrantip/status/1899774480655778016) 6:48 AM · Mar 12, 2025 announcement [here](https://blog.llvm.org/posts/2025-03-11-flang-new/)<br>
