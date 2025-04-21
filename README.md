@@ -1,5 +1,5 @@
 # FortranTip
-Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/).
+Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/). Recently I have duplicated Twitter posts at [Bluesky](https://bsky.app/profile/fortrantip.bsky.social).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
 [Read line with advance="no" and size specifier to avoid trailing spaces](https://x.com/fortrantip/status/1901252990805147988) 8:43 AM · Mar 16, 2025 code [here](https://github.com/guntherwillems/fortran-file-read)<br>
