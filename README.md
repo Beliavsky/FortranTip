@@ -2,7 +2,9 @@
 Short instructional Fortran codes associated with Twitter [@FortranTip](https://twitter.com/fortrantip) . Search tips and run codes at [FortranTipBrowser](https://zmoon.github.io/FortranTipBrowser/). Recently I have duplicated Twitter posts at [Bluesky](https://bsky.app/profile/fortrantip.bsky.social).
 
 ### Index of Tweets, Most Recent First, with Associated Code. A List by Topic is [here](https://github.com/Beliavsky/FortranTip/blob/main/topics.md).
+[UK Met Office introductory and intermediate Fortran courses](https://x.com/fortrantip/status/1921164382572052483) 7:24 AM · May 10, 2025 [introductory](https://epcced.github.io/2025-05-19-MO-Fortran-intro/) [intermediate](https://epcced.github.io/2025-05-22-MO-Fortran-inter/)<br>
 [Sovereign Tech Fund funding gfortran €360,000](https://x.com/fortrantip/status/1920141765547262025) 11:40 AM · May 7, 2025 [link](https://www.sovereign.tech/tech/gfortran)<br>
+[Fprettify formats Fortran code](https://x.com/fortrantip/status/1919026217451139176) 9:47 AM · May 4, 2025 [GitHub](https://github.com/fortran-lang/fprettify)<br>
 [Webinar - Fortran on CPU and GPU, by Vincent Lafage](https://x.com/fortrantip/status/1913987678523052049) 12:06 PM · Apr 20, 2025 [video](https://www.youtube.com/watch?v=iXodpBBvVQY)<br>
 [Papers on LLMs in HPC](https://x.com/fortrantip/status/1913220861584441764) 9:19 AM · Apr 18, 2025
 [post](https://fortran-lang.discourse.group/t/deepseeks-code-generation-capabilities-for-traditional-hpc-languages/9591)<br>
